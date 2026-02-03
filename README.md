@@ -128,5 +128,5 @@ AI is never allowed to invent metrics, infer root cause certainty, or bypass hum
 
 
 
-
+<img src="assets/architecture-overview.png" width="900" />
 
