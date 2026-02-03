@@ -100,6 +100,28 @@ AI is never allowed to invent metrics, infer root cause certainty, or bypass hum
 
 
 
+\## Sample Output
+
+
+
+\### Report Overview
+
+!\[ITSM Trend Report Overview](assets/report-overview.png)
+
+
+
+\### Weekly Trends \& MTTR
+
+!\[Weekly Volume and MTTR Charts](assets/charts.png)
+
+
+
+\### Deterministic Analysis Tables
+
+!\[Deterministic ITSM Tables](assets/deterministic-tables.png)
+
+
+
 ---
 
 
