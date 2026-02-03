@@ -1,0 +1,851 @@
+ticket_id,opened_at,resolved_at,category,subcategory,service,ci,priority,assignment_group,short_description,mttr_minutes
+INC202600000,2026-01-21 09:00:00,2026-01-21 10:27:00,Network,DNS,DNS Service,CI-DNS-CORE-01,P3,Network Ops,DNS related issue reported by user,87
+INC202600001,2025-11-18 09:00:00,2025-11-18 09:52:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P4,Security Ops,Account Lockout related issue reported by user,52
+INC202600002,2026-01-15 14:00:00,2026-01-15 15:29:00,Network,VPN,VPN Service,CI-VPN-GW-01,P2,Network Ops,VPN related issue reported by user,89
+INC202600003,2026-01-04 17:00:00,2026-01-04 20:16:00,Network,DNS,DNS Service,CI-DNS-CORE-01,P2,Network Ops,DNS related issue reported by user,196
+INC202600004,2026-01-29 16:00:00,2026-01-29 17:41:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,101
+INC202600005,2025-11-01 10:00:00,2025-11-01 11:09:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,69
+INC202600006,2025-11-28 13:00:00,2025-11-28 15:01:00,Network,VPN,VPN Service,CI-VPN-GW-01,P3,Network Ops,VPN related issue reported by user,121
+INC202600007,2025-12-15 17:00:00,2025-12-15 19:47:00,Collaboration,Email,Email Service,CI-MAIL-01,P3,Collaboration Ops,Email related issue reported by user,167
+INC202600008,2025-11-16 14:00:00,2025-11-16 17:10:00,Network,DNS,DNS Service,CI-DNS-CORE-01,P3,Network Ops,DNS related issue reported by user,190
+INC202600009,2026-01-19 13:00:00,2026-01-19 13:41:00,Business Apps,ERP,ERP,CI-ERP-01,P3,Business Apps Ops,ERP related issue reported by user,41
+INC202600010,2026-01-24 11:00:00,2026-01-24 11:55:00,Collaboration,Email,Email Service,CI-MAIL-01,P4,Collaboration Ops,Email related issue reported by user,55
+INC202600011,2025-12-19 12:00:00,2025-12-19 13:11:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P4,Identity & Access Ops,Password Reset related issue reported by user,71
+INC202600012,2025-12-18 13:00:00,2025-12-18 16:24:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P3,End User Computing Ops,VDI related issue reported by user,204
+INC202600013,2026-01-22 09:00:00,2026-01-22 12:36:00,Business Apps,CRM,CRM,CI-CRM-01,P2,Business Apps Ops,CRM related issue reported by user,216
+INC202600014,2025-12-02 10:00:00,2025-12-02 13:13:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P3,Identity & Access Ops,MFA related issue reported by user,193
+INC202600015,2026-01-28 16:00:00,2026-01-28 19:46:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P3,End User Computing Ops,VDI related issue reported by user,226
+INC202600016,2025-11-08 11:00:00,2025-11-08 11:46:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,46
+INC202600017,2025-11-28 17:00:00,2025-11-28 19:37:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,157
+INC202600018,2025-12-21 18:00:00,2025-12-21 19:33:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,93
+INC202600019,2026-01-11 16:00:00,2026-01-11 18:59:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P3,Collaboration Ops,Calendar related issue reported by user,179
+INC202600020,2025-12-22 13:00:00,2025-12-22 13:53:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,53
+INC202600021,2025-11-07 09:00:00,2025-11-07 12:24:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P2,End User Computing Ops,VDI related issue reported by user,204
+INC202600022,2025-12-25 17:00:00,2025-12-25 19:29:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,149
+INC202600023,2026-01-07 12:00:00,2026-01-07 12:59:00,Business Apps,ERP,ERP,CI-ERP-01,P3,Business Apps Ops,ERP related issue reported by user,59
+INC202600024,2026-01-27 16:00:00,2026-01-27 17:45:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P3,Collaboration Ops,Calendar related issue reported by user,105
+INC202600025,2025-12-26 10:00:00,2025-12-26 13:34:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P4,Identity & Access Ops,SSO related issue reported by user,214
+INC202600026,2025-12-04 16:00:00,2025-12-04 19:10:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P4,End User Computing Ops,VDI related issue reported by user,190
+INC202600027,2025-12-09 18:00:00,2025-12-09 20:05:00,Business Apps,CRM,CRM,CI-CRM-01,P2,Business Apps Ops,CRM related issue reported by user,125
+INC202600028,2025-11-21 16:00:00,2025-11-21 18:35:00,Business Apps,ERP,ERP,CI-ERP-01,P3,Business Apps Ops,ERP related issue reported by user,155
+INC202600029,2025-11-03 09:00:00,2025-11-03 10:31:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P3,Collaboration Ops,Teams/Zoom related issue reported by user,91
+INC202600030,2026-01-12 09:00:00,2026-01-12 09:47:00,Network,DNS,DNS Service,CI-DNS-CORE-01,P3,Network Ops,DNS related issue reported by user,47
+INC202600031,2026-01-08 10:00:00,2026-01-08 12:50:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P3,End User Computing Ops,VDI related issue reported by user,170
+INC202600032,2025-11-22 12:00:00,2025-11-22 13:24:00,Business Apps,CRM,CRM,CI-CRM-01,P3,Business Apps Ops,CRM related issue reported by user,84
+INC202600033,2026-01-09 11:00:00,2026-01-09 14:21:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,201
+INC202600034,2026-01-23 13:00:00,2026-01-23 14:33:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P3,Identity & Access Ops,Password Reset related issue reported by user,93
+INC202600035,2025-11-29 09:00:00,2025-11-29 10:28:00,Collaboration,Email,Email Service,CI-MAIL-01,P3,Collaboration Ops,Email related issue reported by user,88
+INC202600036,2026-01-15 11:00:00,2026-01-15 11:45:00,Network,VPN,VPN Service,CI-VPN-GW-01,P3,Network Ops,VPN related issue reported by user,45
+INC202600037,2025-11-30 09:00:00,2025-11-30 10:30:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P2,Network Ops,WiFi related issue reported by user,90
+INC202600038,2025-12-06 18:00:00,2025-12-06 21:35:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,215
+INC202600039,2026-01-13 17:00:00,2026-01-13 20:56:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,236
+INC202600040,2025-12-23 11:00:00,2025-12-23 13:00:00,Network,VPN,VPN Service,CI-VPN-GW-01,P3,Network Ops,VPN related issue reported by user,120
+INC202600041,2025-12-25 14:00:00,2025-12-25 17:17:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P2,Identity & Access Ops,Password Reset related issue reported by user,197
+INC202600042,2026-01-22 09:00:00,2026-01-22 12:54:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,234
+INC202600043,2025-11-14 11:00:00,2025-11-14 12:05:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,65
+INC202600044,2025-12-25 10:00:00,2025-12-25 10:49:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P3,Collaboration Ops,Teams/Zoom related issue reported by user,49
+INC202600045,2025-12-27 16:00:00,2025-12-27 18:48:00,Network,VPN,VPN Service,CI-VPN-GW-01,P3,Network Ops,VPN related issue reported by user,168
+INC202600046,2025-11-02 09:00:00,2025-11-02 11:33:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,153
+INC202600047,2025-11-28 14:00:00,2025-11-28 16:09:00,Network,VPN,VPN Service,CI-VPN-GW-01,P3,Network Ops,VPN related issue reported by user,129
+INC202600048,2025-12-04 15:00:00,2025-12-04 18:37:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P3,Collaboration Ops,Teams/Zoom related issue reported by user,217
+INC202600049,2026-01-11 18:00:00,2026-01-11 19:45:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P2,Security Ops,EDR Alerts related issue reported by user,105
+INC202600050,2025-11-28 08:00:00,2025-11-28 11:41:00,Business Apps,CRM,CRM,CI-CRM-01,P3,Business Apps Ops,CRM related issue reported by user,221
+INC202600051,2025-12-11 08:00:00,2025-12-11 10:45:00,Network,DNS,DNS Service,CI-DNS-CORE-01,P3,Network Ops,DNS related issue reported by user,165
+INC202600052,2025-11-21 08:00:00,2025-11-21 08:47:00,Business Apps,ERP,ERP,CI-ERP-01,P4,Business Apps Ops,ERP related issue reported by user,47
+INC202600053,2026-01-16 09:00:00,2026-01-16 11:55:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P3,Security Ops,Phishing related issue reported by user,175
+INC202600054,2025-12-02 17:00:00,2025-12-02 19:17:00,Business Apps,ERP,ERP,CI-ERP-01,P3,Business Apps Ops,ERP related issue reported by user,137
+INC202600055,2026-01-24 17:00:00,2026-01-24 18:36:00,Business Apps,CRM,CRM,CI-CRM-01,P3,Business Apps Ops,CRM related issue reported by user,96
+INC202600056,2025-11-27 18:00:00,2025-11-27 20:11:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,131
+INC202600057,2025-11-17 18:00:00,2025-11-17 21:42:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,222
+INC202600058,2025-11-10 08:00:00,2025-11-10 08:55:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P4,Identity & Access Ops,Password Reset related issue reported by user,55
+INC202600059,2025-11-10 16:00:00,2025-11-10 17:59:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P3,End User Computing Ops,VDI related issue reported by user,119
+INC202600060,2025-11-09 11:00:00,2025-11-09 13:49:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P2,Collaboration Ops,Teams/Zoom related issue reported by user,169
+INC202600061,2025-12-09 17:00:00,2025-12-09 20:59:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P1,Security Ops,Account Lockout related issue reported by user,239
+INC202600062,2026-01-10 12:00:00,2026-01-10 13:04:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P4,Security Ops,Phishing related issue reported by user,64
+INC202600063,2025-12-04 09:00:00,2025-12-04 10:39:00,Network,DNS,DNS Service,CI-DNS-CORE-01,P3,Network Ops,DNS related issue reported by user,99
+INC202600064,2025-12-07 17:00:00,2025-12-07 20:25:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P3,End User Computing Ops,VDI related issue reported by user,205
+INC202600065,2026-01-21 12:00:00,2026-01-21 12:43:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P3,Business Apps Ops,HRIS related issue reported by user,43
+INC202600066,2025-11-12 18:00:00,2025-11-12 19:55:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P1,Identity & Access Ops,MFA related issue reported by user,115
+INC202600067,2025-11-17 18:00:00,2025-11-17 20:51:00,Collaboration,Email,Email Service,CI-MAIL-01,P3,Collaboration Ops,Email related issue reported by user,171
+INC202600068,2025-12-25 16:00:00,2025-12-25 19:26:00,Network,VPN,VPN Service,CI-VPN-GW-01,P2,Network Ops,VPN related issue reported by user,206
+INC202600069,2025-11-20 16:00:00,2025-11-20 17:07:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,67
+INC202600070,2025-12-26 10:00:00,2025-12-26 13:53:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,233
+INC202600071,2025-11-06 13:00:00,2025-11-06 13:56:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P3,End User Computing Ops,VDI related issue reported by user,56
+INC202600072,2025-12-16 16:00:00,2025-12-16 17:30:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P3,Identity & Access Ops,Password Reset related issue reported by user,90
+INC202600073,2025-11-21 10:00:00,2025-11-21 11:55:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P2,Identity & Access Ops,SSO related issue reported by user,115
+INC202600074,2025-12-23 18:00:00,2025-12-23 21:51:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P3,Security Ops,Phishing related issue reported by user,231
+INC202600075,2026-01-29 09:00:00,2026-01-29 10:26:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P4,Identity & Access Ops,SSO related issue reported by user,86
+INC202600076,2025-11-26 15:00:00,2025-11-26 16:28:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P4,Collaboration Ops,Teams/Zoom related issue reported by user,88
+INC202600077,2025-11-29 08:00:00,2025-11-29 09:41:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P3,Security Ops,Phishing related issue reported by user,101
+INC202600078,2025-11-09 12:00:00,2025-11-09 15:23:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P3,Collaboration Ops,Calendar related issue reported by user,203
+INC202600079,2026-01-08 13:00:00,2026-01-08 14:36:00,Network,VPN,VPN Service,CI-VPN-GW-01,P4,Network Ops,VPN related issue reported by user,96
+INC202600080,2025-11-23 17:00:00,2025-11-23 19:21:00,Collaboration,Email,Email Service,CI-MAIL-01,P2,Collaboration Ops,Email related issue reported by user,141
+INC202600081,2025-12-15 13:00:00,2025-12-15 13:59:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P4,Identity & Access Ops,Password Reset related issue reported by user,59
+INC202600082,2025-12-20 17:00:00,2025-12-20 19:21:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P1,End User Computing Ops,Printers related issue reported by user,141
+INC202600083,2025-11-01 16:00:00,2025-11-01 19:39:00,Business Apps,CRM,CRM,CI-CRM-01,P3,Business Apps Ops,CRM related issue reported by user,219
+INC202600084,2026-01-25 11:00:00,2026-01-25 14:20:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P2,Collaboration Ops,Teams/Zoom related issue reported by user,200
+INC202600085,2025-12-13 17:00:00,2025-12-13 20:34:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P4,Collaboration Ops,Calendar related issue reported by user,214
+INC202600086,2025-12-09 16:00:00,2025-12-09 18:13:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P3,Collaboration Ops,Calendar related issue reported by user,133
+INC202600087,2026-01-29 12:00:00,2026-01-29 15:20:00,Business Apps,ERP,ERP,CI-ERP-01,P2,Business Apps Ops,ERP related issue reported by user,200
+INC202600088,2025-12-19 18:00:00,2025-12-19 19:47:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P3,Security Ops,Phishing related issue reported by user,107
+INC202600089,2025-12-22 16:00:00,2025-12-22 18:20:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,140
+INC202600090,2026-01-14 17:00:00,2026-01-14 19:23:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,143
+INC202600091,2026-01-26 11:00:00,2026-01-26 14:53:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P3,Business Apps Ops,HRIS related issue reported by user,233
+INC202600092,2025-11-22 18:00:00,2025-11-22 21:12:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,192
+INC202600093,2026-01-19 13:00:00,2026-01-19 14:27:00,Network,VPN,VPN Service,CI-VPN-GW-01,P3,Network Ops,VPN related issue reported by user,87
+INC202600094,2025-11-26 10:00:00,2025-11-26 12:31:00,Network,VPN,VPN Service,CI-VPN-GW-01,P3,Network Ops,VPN related issue reported by user,151
+INC202600095,2026-01-18 09:00:00,2026-01-18 11:57:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P4,Identity & Access Ops,MFA related issue reported by user,177
+INC202600096,2025-11-25 14:00:00,2025-11-25 17:17:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P3,Identity & Access Ops,MFA related issue reported by user,197
+INC202600097,2026-01-28 08:00:00,2026-01-28 11:55:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,235
+INC202600098,2026-01-29 16:00:00,2026-01-29 17:01:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,61
+INC202600099,2025-12-29 10:00:00,2025-12-29 12:53:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P3,Identity & Access Ops,Password Reset related issue reported by user,173
+INC202600100,2026-01-16 13:00:00,2026-01-16 15:39:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P4,Identity & Access Ops,Password Reset related issue reported by user,159
+INC202600101,2025-12-25 16:00:00,2025-12-25 18:31:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,151
+INC202600102,2025-12-28 12:00:00,2025-12-28 15:49:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P3,End User Computing Ops,VDI related issue reported by user,229
+INC202600103,2026-01-06 15:00:00,2026-01-06 15:49:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P3,Security Ops,Phishing related issue reported by user,49
+INC202600104,2025-12-07 11:00:00,2025-12-07 13:48:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P3,Collaboration Ops,Teams/Zoom related issue reported by user,168
+INC202600105,2025-11-11 10:00:00,2025-11-11 11:09:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,69
+INC202600106,2025-11-28 09:00:00,2025-11-28 11:29:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P3,Identity & Access Ops,MFA related issue reported by user,149
+INC202600107,2025-12-24 08:00:00,2025-12-24 11:47:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P3,End User Computing Ops,Printers related issue reported by user,227
+INC202600108,2026-01-14 08:00:00,2026-01-14 10:00:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P3,Business Apps Ops,HRIS related issue reported by user,120
+INC202600109,2025-12-09 14:00:00,2025-12-09 16:49:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P3,Identity & Access Ops,Password Reset related issue reported by user,169
+INC202600110,2026-01-17 11:00:00,2026-01-17 13:34:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,154
+INC202600111,2025-11-04 14:00:00,2025-11-04 16:13:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P3,Collaboration Ops,Calendar related issue reported by user,133
+INC202600112,2025-11-22 15:00:00,2025-11-22 17:10:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P3,End User Computing Ops,VDI related issue reported by user,130
+INC202600113,2026-01-15 17:00:00,2026-01-15 19:19:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P2,Security Ops,Phishing related issue reported by user,139
+INC202600114,2025-11-18 15:00:00,2025-11-18 16:53:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,113
+INC202600115,2025-11-28 15:00:00,2025-11-28 17:07:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P3,Collaboration Ops,Teams/Zoom related issue reported by user,127
+INC202600116,2025-12-06 14:00:00,2025-12-06 17:41:00,Collaboration,Email,Email Service,CI-MAIL-01,P3,Collaboration Ops,Email related issue reported by user,221
+INC202600117,2026-01-09 08:00:00,2026-01-09 11:49:00,Collaboration,Email,Email Service,CI-MAIL-01,P3,Collaboration Ops,Email related issue reported by user,229
+INC202600118,2026-01-23 08:00:00,2026-01-23 08:35:00,Network,VPN,VPN Service,CI-VPN-GW-01,P2,Network Ops,VPN related issue reported by user,35
+INC202600119,2026-01-19 10:00:00,2026-01-19 10:59:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,59
+INC202600120,2026-01-12 11:00:00,2026-01-12 13:04:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P3,Identity & Access Ops,Password Reset related issue reported by user,124
+INC202600121,2025-11-22 17:00:00,2025-11-22 20:49:00,Business Apps,CRM,CRM,CI-CRM-01,P3,Business Apps Ops,CRM related issue reported by user,229
+INC202600122,2025-11-21 12:00:00,2025-11-21 13:49:00,Network,DNS,DNS Service,CI-DNS-CORE-01,P1,Network Ops,DNS related issue reported by user,109
+INC202600123,2026-01-13 18:00:00,2026-01-13 19:20:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P4,Identity & Access Ops,MFA related issue reported by user,80
+INC202600124,2025-11-10 17:00:00,2025-11-10 20:28:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,208
+INC202600125,2025-12-09 18:00:00,2025-12-09 20:54:00,Business Apps,ERP,ERP,CI-ERP-01,P3,Business Apps Ops,ERP related issue reported by user,174
+INC202600126,2025-11-06 13:00:00,2025-11-06 13:47:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P3,Business Apps Ops,HRIS related issue reported by user,47
+INC202600127,2026-01-04 18:00:00,2026-01-04 22:00:00,Collaboration,Email,Email Service,CI-MAIL-01,P4,Collaboration Ops,Email related issue reported by user,240
+INC202600128,2026-01-02 09:00:00,2026-01-02 11:27:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P3,Identity & Access Ops,MFA related issue reported by user,147
+INC202600129,2025-11-20 14:00:00,2025-11-20 17:16:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P3,End User Computing Ops,VDI related issue reported by user,196
+INC202600130,2025-12-05 17:00:00,2025-12-05 20:37:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P3,Business Apps Ops,HRIS related issue reported by user,217
+INC202600131,2026-01-15 12:00:00,2026-01-15 12:52:00,Collaboration,Email,Email Service,CI-MAIL-01,P4,Collaboration Ops,Email related issue reported by user,52
+INC202600132,2025-12-06 15:00:00,2025-12-06 18:21:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P3,End User Computing Ops,Printers related issue reported by user,201
+INC202600133,2025-12-19 13:00:00,2025-12-19 14:16:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P4,Network Ops,WiFi related issue reported by user,76
+INC202600134,2026-01-02 11:00:00,2026-01-02 14:02:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P3,Collaboration Ops,Teams/Zoom related issue reported by user,182
+INC202600135,2026-01-29 12:00:00,2026-01-29 13:18:00,Business Apps,ERP,ERP,CI-ERP-01,P3,Business Apps Ops,ERP related issue reported by user,78
+INC202600136,2025-11-11 11:00:00,2025-11-11 14:44:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,224
+INC202600137,2025-12-01 15:00:00,2025-12-01 18:52:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,232
+INC202600138,2025-11-03 09:00:00,2025-11-03 10:32:00,Collaboration,Email,Email Service,CI-MAIL-01,P3,Collaboration Ops,Email related issue reported by user,92
+INC202600139,2025-12-10 18:00:00,2025-12-10 20:45:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P3,Business Apps Ops,HRIS related issue reported by user,165
+INC202600140,2025-12-15 14:00:00,2025-12-15 17:29:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,209
+INC202600141,2025-12-29 12:00:00,2025-12-29 15:34:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P3,Collaboration Ops,Teams/Zoom related issue reported by user,214
+INC202600142,2025-11-25 13:00:00,2025-11-25 16:45:00,Network,DNS,DNS Service,CI-DNS-CORE-01,P3,Network Ops,DNS related issue reported by user,225
+INC202600143,2026-01-28 10:00:00,2026-01-28 11:40:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,100
+INC202600144,2026-01-15 16:00:00,2026-01-15 17:19:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P4,Business Apps Ops,HRIS related issue reported by user,79
+INC202600145,2025-12-08 11:00:00,2025-12-08 14:31:00,Collaboration,Email,Email Service,CI-MAIL-01,P3,Collaboration Ops,Email related issue reported by user,211
+INC202600146,2026-01-08 10:00:00,2026-01-08 12:51:00,Collaboration,Email,Email Service,CI-MAIL-01,P4,Collaboration Ops,Email related issue reported by user,171
+INC202600147,2025-12-08 10:00:00,2025-12-08 10:33:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P2,Security Ops,EDR Alerts related issue reported by user,33
+INC202600148,2026-01-13 12:00:00,2026-01-13 13:17:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P3,Identity & Access Ops,MFA related issue reported by user,77
+INC202600149,2025-11-07 12:00:00,2025-11-07 14:12:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P4,Identity & Access Ops,SSO related issue reported by user,132
+INC202600150,2026-01-02 09:00:00,2026-01-02 10:08:00,Business Apps,CRM,CRM,CI-CRM-01,P3,Business Apps Ops,CRM related issue reported by user,68
+INC202600151,2025-11-20 17:00:00,2025-11-20 18:00:00,Collaboration,Email,Email Service,CI-MAIL-01,P4,Collaboration Ops,Email related issue reported by user,60
+INC202600152,2026-01-11 14:00:00,2026-01-11 15:27:00,Business Apps,CRM,CRM,CI-CRM-01,P3,Business Apps Ops,CRM related issue reported by user,87
+INC202600153,2026-01-06 14:00:00,2026-01-06 17:00:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P3,Identity & Access Ops,MFA related issue reported by user,180
+INC202600154,2025-12-25 12:00:00,2025-12-25 15:39:00,Business Apps,CRM,CRM,CI-CRM-01,P2,Business Apps Ops,CRM related issue reported by user,219
+INC202600155,2025-11-13 11:00:00,2025-11-13 11:50:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P3,Security Ops,Phishing related issue reported by user,50
+INC202600156,2025-11-21 11:00:00,2025-11-21 11:30:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P2,End User Computing Ops,VDI related issue reported by user,30
+INC202600157,2025-12-23 15:00:00,2025-12-23 15:38:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,38
+INC202600158,2025-11-30 12:00:00,2025-11-30 14:26:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,146
+INC202600159,2025-11-10 18:00:00,2025-11-10 21:10:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P3,End User Computing Ops,Printers related issue reported by user,190
+INC202600160,2026-01-15 18:00:00,2026-01-15 19:27:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P2,End User Computing Ops,Printers related issue reported by user,87
+INC202600161,2026-01-22 10:00:00,2026-01-22 11:12:00,Collaboration,Email,Email Service,CI-MAIL-01,P2,Collaboration Ops,Email related issue reported by user,72
+INC202600162,2025-12-10 17:00:00,2025-12-10 19:22:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P4,Security Ops,Account Lockout related issue reported by user,142
+INC202600163,2025-11-16 15:00:00,2025-11-16 16:39:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,99
+INC202600164,2026-01-04 16:00:00,2026-01-04 16:40:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P2,Identity & Access Ops,MFA related issue reported by user,40
+INC202600165,2025-12-26 13:00:00,2025-12-26 14:28:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P1,Business Apps Ops,HRIS related issue reported by user,88
+INC202600166,2026-01-26 17:00:00,2026-01-26 20:22:00,Business Apps,ERP,ERP,CI-ERP-01,P4,Business Apps Ops,ERP related issue reported by user,202
+INC202600167,2025-12-05 17:00:00,2025-12-05 20:16:00,Network,VPN,VPN Service,CI-VPN-GW-01,P3,Network Ops,VPN related issue reported by user,196
+INC202600168,2025-12-27 12:00:00,2025-12-27 15:58:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P3,End User Computing Ops,VDI related issue reported by user,238
+INC202600169,2026-01-02 09:00:00,2026-01-02 10:52:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P3,Identity & Access Ops,MFA related issue reported by user,112
+INC202600170,2026-01-25 09:00:00,2026-01-25 11:36:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P3,End User Computing Ops,Printers related issue reported by user,156
+INC202600171,2025-12-07 18:00:00,2025-12-07 18:52:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P1,Identity & Access Ops,Password Reset related issue reported by user,52
+INC202600172,2025-12-11 12:00:00,2025-12-11 14:13:00,Collaboration,Email,Email Service,CI-MAIL-01,P4,Collaboration Ops,Email related issue reported by user,133
+INC202600173,2026-01-05 08:00:00,2026-01-05 08:43:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,43
+INC202600174,2025-11-25 16:00:00,2025-11-25 19:10:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P3,Collaboration Ops,Calendar related issue reported by user,190
+INC202600175,2025-12-27 08:00:00,2025-12-27 09:43:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P3,End User Computing Ops,Printers related issue reported by user,103
+INC202600176,2025-12-27 15:00:00,2025-12-27 18:05:00,Network,VPN,VPN Service,CI-VPN-GW-01,P4,Network Ops,VPN related issue reported by user,185
+INC202600177,2025-12-01 10:00:00,2025-12-01 12:14:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P1,Collaboration Ops,Calendar related issue reported by user,134
+INC202600178,2025-11-12 11:00:00,2025-11-12 14:15:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P4,Network Ops,WiFi related issue reported by user,195
+INC202600179,2025-11-20 15:00:00,2025-11-20 16:39:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,99
+INC202600180,2025-12-24 15:00:00,2025-12-24 16:07:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,67
+INC202600181,2025-12-20 11:00:00,2025-12-20 12:04:00,Business Apps,CRM,CRM,CI-CRM-01,P3,Business Apps Ops,CRM related issue reported by user,64
+INC202600182,2025-11-09 12:00:00,2025-11-09 14:39:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P4,Identity & Access Ops,MFA related issue reported by user,159
+INC202600183,2025-12-05 08:00:00,2025-12-05 11:00:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P3,Collaboration Ops,Calendar related issue reported by user,180
+INC202600184,2026-01-14 18:00:00,2026-01-14 20:33:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,153
+INC202600185,2025-12-15 13:00:00,2025-12-15 14:52:00,Business Apps,CRM,CRM,CI-CRM-01,P3,Business Apps Ops,CRM related issue reported by user,112
+INC202600186,2025-11-25 11:00:00,2025-11-25 14:48:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P3,Business Apps Ops,HRIS related issue reported by user,228
+INC202600187,2025-12-23 08:00:00,2025-12-23 11:57:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P3,Collaboration Ops,Calendar related issue reported by user,237
+INC202600188,2025-12-19 14:00:00,2025-12-19 16:36:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P4,Security Ops,Account Lockout related issue reported by user,156
+INC202600189,2025-11-05 10:00:00,2025-11-05 10:55:00,Business Apps,CRM,CRM,CI-CRM-01,P3,Business Apps Ops,CRM related issue reported by user,55
+INC202600190,2025-12-27 09:00:00,2025-12-27 10:06:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P1,Business Apps Ops,HRIS related issue reported by user,66
+INC202600191,2025-12-23 18:00:00,2025-12-23 19:37:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,97
+INC202600192,2025-12-14 17:00:00,2025-12-14 18:54:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,114
+INC202600193,2026-01-26 16:00:00,2026-01-26 19:44:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P3,Identity & Access Ops,MFA related issue reported by user,224
+INC202600194,2026-01-02 16:00:00,2026-01-02 19:11:00,Network,DNS,DNS Service,CI-DNS-CORE-01,P2,Network Ops,DNS related issue reported by user,191
+INC202600195,2026-01-27 12:00:00,2026-01-27 12:55:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P2,End User Computing Ops,VDI related issue reported by user,55
+INC202600196,2026-01-21 09:00:00,2026-01-21 09:37:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,37
+INC202600197,2025-11-06 13:00:00,2025-11-06 15:20:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,140
+INC202600198,2025-11-19 11:00:00,2025-11-19 14:52:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P3,Business Apps Ops,HRIS related issue reported by user,232
+INC202600199,2025-11-24 10:00:00,2025-11-24 12:07:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,127
+INC202600200,2026-01-19 18:00:00,2026-01-19 19:06:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P4,End User Computing Ops,Printers related issue reported by user,66
+INC202600201,2025-11-30 15:00:00,2025-11-30 18:20:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,200
+INC202600202,2025-11-02 15:00:00,2025-11-02 15:48:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P3,Collaboration Ops,Calendar related issue reported by user,48
+INC202600203,2025-12-27 13:00:00,2025-12-27 15:18:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P3,Business Apps Ops,HRIS related issue reported by user,138
+INC202600204,2026-01-28 12:00:00,2026-01-28 14:08:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P2,Identity & Access Ops,MFA related issue reported by user,128
+INC202600205,2026-01-01 09:00:00,2026-01-01 11:57:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P3,End User Computing Ops,Printers related issue reported by user,177
+INC202600206,2025-12-08 12:00:00,2025-12-08 12:32:00,Network,DNS,DNS Service,CI-DNS-CORE-01,P3,Network Ops,DNS related issue reported by user,32
+INC202600207,2026-01-12 18:00:00,2026-01-12 21:40:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P4,Security Ops,Phishing related issue reported by user,220
+INC202600208,2026-01-03 12:00:00,2026-01-03 13:26:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P4,End User Computing Ops,VDI related issue reported by user,86
+INC202600209,2026-01-21 11:00:00,2026-01-21 14:34:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P3,Business Apps Ops,HRIS related issue reported by user,214
+INC202600210,2026-01-24 18:00:00,2026-01-24 21:10:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P2,End User Computing Ops,VDI related issue reported by user,190
+INC202600211,2026-01-22 08:00:00,2026-01-22 10:03:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P1,Collaboration Ops,Teams/Zoom related issue reported by user,123
+INC202600212,2025-11-17 09:00:00,2025-11-17 10:14:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P3,Collaboration Ops,Teams/Zoom related issue reported by user,74
+INC202600213,2025-11-26 10:00:00,2025-11-26 11:39:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P3,Business Apps Ops,HRIS related issue reported by user,99
+INC202600214,2025-11-22 12:00:00,2025-11-22 13:56:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P3,Identity & Access Ops,MFA related issue reported by user,116
+INC202600215,2025-11-15 15:00:00,2025-11-15 16:27:00,Network,VPN,VPN Service,CI-VPN-GW-01,P3,Network Ops,VPN related issue reported by user,87
+INC202600216,2026-01-26 18:00:00,2026-01-26 21:52:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P3,Identity & Access Ops,Password Reset related issue reported by user,232
+INC202600217,2025-12-21 08:00:00,2025-12-21 10:04:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P2,Collaboration Ops,Calendar related issue reported by user,124
+INC202600218,2026-01-26 18:00:00,2026-01-26 21:13:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P3,Collaboration Ops,Calendar related issue reported by user,193
+INC202600219,2025-12-18 09:00:00,2025-12-18 12:08:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P3,Security Ops,Phishing related issue reported by user,188
+INC202600220,2026-01-11 13:00:00,2026-01-11 16:12:00,Business Apps,ERP,ERP,CI-ERP-01,P3,Business Apps Ops,ERP related issue reported by user,192
+INC202600221,2025-12-30 12:00:00,2025-12-30 12:41:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P2,Security Ops,EDR Alerts related issue reported by user,41
+INC202600222,2025-11-05 12:00:00,2025-11-05 14:47:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P2,Identity & Access Ops,SSO related issue reported by user,167
+INC202600223,2025-11-18 14:00:00,2025-11-18 17:40:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P3,Identity & Access Ops,MFA related issue reported by user,220
+INC202600224,2026-01-29 16:00:00,2026-01-29 17:09:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P3,Identity & Access Ops,Password Reset related issue reported by user,69
+INC202600225,2025-12-24 18:00:00,2025-12-24 19:41:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,101
+INC202600226,2025-11-05 13:00:00,2025-11-05 14:30:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P3,End User Computing Ops,Printers related issue reported by user,90
+INC202600227,2025-12-17 09:00:00,2025-12-17 12:15:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,195
+INC202600228,2025-12-16 08:00:00,2025-12-16 09:01:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P2,Identity & Access Ops,MFA related issue reported by user,61
+INC202600229,2025-12-29 09:00:00,2025-12-29 12:02:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P3,Security Ops,Phishing related issue reported by user,182
+INC202600230,2025-11-03 08:00:00,2025-11-03 11:51:00,Collaboration,Email,Email Service,CI-MAIL-01,P4,Collaboration Ops,Email related issue reported by user,231
+INC202600231,2026-01-12 11:00:00,2026-01-12 12:25:00,Network,DNS,DNS Service,CI-DNS-CORE-01,P3,Network Ops,DNS related issue reported by user,85
+INC202600232,2025-11-30 13:00:00,2025-11-30 14:07:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P1,End User Computing Ops,VDI related issue reported by user,67
+INC202600233,2025-11-17 16:00:00,2025-11-17 16:36:00,Collaboration,Email,Email Service,CI-MAIL-01,P2,Collaboration Ops,Email related issue reported by user,36
+INC202600234,2025-11-17 08:00:00,2025-11-17 08:34:00,Collaboration,Email,Email Service,CI-MAIL-01,P3,Collaboration Ops,Email related issue reported by user,34
+INC202600235,2025-11-23 12:00:00,2025-11-23 14:44:00,Network,VPN,VPN Service,CI-VPN-GW-01,P3,Network Ops,VPN related issue reported by user,164
+INC202600236,2025-11-15 09:00:00,2025-11-15 11:41:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P3,Identity & Access Ops,MFA related issue reported by user,161
+INC202600237,2026-01-15 09:00:00,2026-01-15 12:07:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P3,Identity & Access Ops,Password Reset related issue reported by user,187
+INC202600238,2025-11-06 18:00:00,2025-11-06 18:37:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P3,Business Apps Ops,HRIS related issue reported by user,37
+INC202600239,2025-11-08 15:00:00,2025-11-08 17:35:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P3,Identity & Access Ops,MFA related issue reported by user,155
+INC202600240,2025-12-27 09:00:00,2025-12-27 09:46:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,46
+INC202600241,2025-11-17 12:00:00,2025-11-17 15:32:00,Business Apps,CRM,CRM,CI-CRM-01,P3,Business Apps Ops,CRM related issue reported by user,212
+INC202600242,2025-12-12 14:00:00,2025-12-12 16:39:00,Business Apps,CRM,CRM,CI-CRM-01,P3,Business Apps Ops,CRM related issue reported by user,159
+INC202600243,2026-01-17 14:00:00,2026-01-17 17:17:00,Network,DNS,DNS Service,CI-DNS-CORE-01,P2,Network Ops,DNS related issue reported by user,197
+INC202600244,2026-01-23 16:00:00,2026-01-23 17:28:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P3,Security Ops,Phishing related issue reported by user,88
+INC202600245,2025-12-23 13:00:00,2025-12-23 13:54:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P3,Identity & Access Ops,MFA related issue reported by user,54
+INC202600246,2025-12-11 14:00:00,2025-12-11 15:09:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P3,Collaboration Ops,Calendar related issue reported by user,69
+INC202600247,2026-01-27 15:00:00,2026-01-27 15:53:00,Network,VPN,VPN Service,CI-VPN-GW-01,P4,Network Ops,VPN related issue reported by user,53
+INC202600248,2025-12-26 09:00:00,2025-12-26 10:03:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,63
+INC202600249,2026-01-11 08:00:00,2026-01-11 11:21:00,Business Apps,CRM,CRM,CI-CRM-01,P3,Business Apps Ops,CRM related issue reported by user,201
+INC202600250,2025-11-16 14:00:00,2025-11-16 16:18:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P4,Collaboration Ops,Calendar related issue reported by user,138
+INC202600251,2025-11-07 12:00:00,2025-11-07 14:57:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P3,Business Apps Ops,HRIS related issue reported by user,177
+INC202600252,2026-01-04 11:00:00,2026-01-04 11:57:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P3,End User Computing Ops,VDI related issue reported by user,57
+INC202600253,2025-12-15 16:00:00,2025-12-15 18:56:00,Collaboration,Email,Email Service,CI-MAIL-01,P3,Collaboration Ops,Email related issue reported by user,176
+INC202600254,2025-11-29 14:00:00,2025-11-29 17:14:00,Business Apps,CRM,CRM,CI-CRM-01,P3,Business Apps Ops,CRM related issue reported by user,194
+INC202600255,2026-01-11 08:00:00,2026-01-11 09:38:00,Business Apps,CRM,CRM,CI-CRM-01,P4,Business Apps Ops,CRM related issue reported by user,98
+INC202600256,2025-11-04 10:00:00,2025-11-04 11:56:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P3,Collaboration Ops,Calendar related issue reported by user,116
+INC202600257,2025-12-15 08:00:00,2025-12-15 10:12:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,132
+INC202600258,2025-11-09 10:00:00,2025-11-09 10:53:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P4,Security Ops,Account Lockout related issue reported by user,53
+INC202600259,2026-01-07 11:00:00,2026-01-07 12:10:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P3,Identity & Access Ops,MFA related issue reported by user,70
+INC202600260,2025-12-18 12:00:00,2025-12-18 14:55:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,175
+INC202600261,2026-01-16 09:00:00,2026-01-16 12:08:00,Network,VPN,VPN Service,CI-VPN-GW-01,P2,Network Ops,VPN related issue reported by user,188
+INC202600262,2025-11-07 18:00:00,2025-11-07 20:18:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,138
+INC202600263,2026-01-02 17:00:00,2026-01-02 20:43:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P3,Identity & Access Ops,MFA related issue reported by user,223
+INC202600264,2026-01-05 09:00:00,2026-01-05 12:23:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P2,Collaboration Ops,Teams/Zoom related issue reported by user,203
+INC202600265,2026-01-26 17:00:00,2026-01-26 17:41:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P3,Identity & Access Ops,Password Reset related issue reported by user,41
+INC202600266,2025-11-29 14:00:00,2025-11-29 15:47:00,Business Apps,ERP,ERP,CI-ERP-01,P1,Business Apps Ops,ERP related issue reported by user,107
+INC202600267,2025-11-28 10:00:00,2025-11-28 10:31:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P3,Collaboration Ops,Teams/Zoom related issue reported by user,31
+INC202600268,2026-01-03 14:00:00,2026-01-03 17:30:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,210
+INC202600269,2025-11-30 16:00:00,2025-11-30 16:48:00,Business Apps,CRM,CRM,CI-CRM-01,P4,Business Apps Ops,CRM related issue reported by user,48
+INC202600270,2025-12-21 08:00:00,2025-12-21 08:49:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,49
+INC202600271,2025-12-11 17:00:00,2025-12-11 20:13:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P3,Identity & Access Ops,Password Reset related issue reported by user,193
+INC202600272,2025-12-24 12:00:00,2025-12-24 13:53:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P1,Network Ops,WiFi related issue reported by user,113
+INC202600273,2025-11-22 17:00:00,2025-11-22 17:52:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P4,Identity & Access Ops,Password Reset related issue reported by user,52
+INC202600274,2025-12-26 09:00:00,2025-12-26 11:44:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P3,End User Computing Ops,Printers related issue reported by user,164
+INC202600275,2025-11-11 14:00:00,2025-11-11 15:55:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P3,Collaboration Ops,Calendar related issue reported by user,115
+INC202600276,2025-11-22 09:00:00,2025-11-22 11:40:00,Business Apps,CRM,CRM,CI-CRM-01,P2,Business Apps Ops,CRM related issue reported by user,160
+INC202600277,2025-11-25 13:00:00,2025-11-25 16:15:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P4,Collaboration Ops,Calendar related issue reported by user,195
+INC202600278,2025-11-19 11:00:00,2025-11-19 12:14:00,Network,VPN,VPN Service,CI-VPN-GW-01,P3,Network Ops,VPN related issue reported by user,74
+INC202600279,2026-01-17 10:00:00,2026-01-17 13:47:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P2,Security Ops,Phishing related issue reported by user,227
+INC202600280,2026-01-20 15:00:00,2026-01-20 17:24:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P3,Identity & Access Ops,Password Reset related issue reported by user,144
+INC202600281,2026-01-27 17:00:00,2026-01-27 18:52:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P4,Security Ops,Account Lockout related issue reported by user,112
+INC202600282,2026-01-20 13:00:00,2026-01-20 15:23:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P2,End User Computing Ops,Printers related issue reported by user,143
+INC202600283,2026-01-20 12:00:00,2026-01-20 14:39:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P2,Collaboration Ops,Calendar related issue reported by user,159
+INC202600284,2025-11-10 12:00:00,2025-11-10 14:04:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P1,Identity & Access Ops,MFA related issue reported by user,124
+INC202600285,2025-12-07 09:00:00,2025-12-07 11:39:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P3,Security Ops,Phishing related issue reported by user,159
+INC202600286,2025-12-20 15:00:00,2025-12-20 18:39:00,Business Apps,CRM,CRM,CI-CRM-01,P4,Business Apps Ops,CRM related issue reported by user,219
+INC202600287,2025-11-06 15:00:00,2025-11-06 18:04:00,Business Apps,CRM,CRM,CI-CRM-01,P2,Business Apps Ops,CRM related issue reported by user,184
+INC202600288,2025-12-31 16:00:00,2025-12-31 19:57:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,237
+INC202600289,2025-12-14 09:00:00,2025-12-14 10:33:00,Business Apps,CRM,CRM,CI-CRM-01,P2,Business Apps Ops,CRM related issue reported by user,93
+INC202600290,2025-12-27 15:00:00,2025-12-27 17:03:00,Business Apps,CRM,CRM,CI-CRM-01,P3,Business Apps Ops,CRM related issue reported by user,123
+INC202600291,2025-12-18 12:00:00,2025-12-18 15:23:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P3,Identity & Access Ops,MFA related issue reported by user,203
+INC202600292,2026-01-16 08:00:00,2026-01-16 09:54:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,114
+INC202600293,2025-11-13 16:00:00,2025-11-13 19:35:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,215
+INC202600294,2026-01-24 17:00:00,2026-01-24 20:19:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P2,End User Computing Ops,Printers related issue reported by user,199
+INC202600295,2025-11-19 13:00:00,2025-11-19 15:10:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P3,Collaboration Ops,Calendar related issue reported by user,130
+INC202600296,2025-11-17 17:00:00,2025-11-17 19:06:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P3,Security Ops,Phishing related issue reported by user,126
+INC202600297,2026-01-22 13:00:00,2026-01-22 16:39:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P3,End User Computing Ops,VDI related issue reported by user,219
+INC202600298,2026-01-27 16:00:00,2026-01-27 18:40:00,Network,DNS,DNS Service,CI-DNS-CORE-01,P3,Network Ops,DNS related issue reported by user,160
+INC202600299,2025-12-17 08:00:00,2025-12-17 09:24:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P2,Collaboration Ops,Teams/Zoom related issue reported by user,84
+INC202600300,2025-12-14 15:00:00,2025-12-14 16:09:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P4,End User Computing Ops,Endpoint Management related issue reported by user,69
+INC202600301,2025-11-10 12:00:00,2025-11-10 15:39:00,Network,DNS,DNS Service,CI-DNS-CORE-01,P3,Network Ops,DNS related issue reported by user,219
+INC202600302,2026-01-07 08:00:00,2026-01-07 11:08:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P4,Security Ops,EDR Alerts related issue reported by user,188
+INC202600303,2025-11-17 17:00:00,2025-11-17 20:27:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P2,Identity & Access Ops,SSO related issue reported by user,207
+INC202600304,2026-01-19 10:00:00,2026-01-19 12:03:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P1,Security Ops,EDR Alerts related issue reported by user,123
+INC202600305,2026-01-26 11:00:00,2026-01-26 14:41:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P3,Identity & Access Ops,Password Reset related issue reported by user,221
+INC202600306,2025-12-28 11:00:00,2025-12-28 14:57:00,Business Apps,ERP,ERP,CI-ERP-01,P3,Business Apps Ops,ERP related issue reported by user,237
+INC202600307,2025-12-31 11:00:00,2025-12-31 13:22:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P4,Collaboration Ops,Calendar related issue reported by user,142
+INC202600308,2025-12-30 12:00:00,2025-12-30 13:11:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P3,Identity & Access Ops,Password Reset related issue reported by user,71
+INC202600309,2025-11-26 17:00:00,2025-11-26 19:33:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P2,End User Computing Ops,Printers related issue reported by user,153
+INC202600310,2025-12-18 16:00:00,2025-12-18 17:01:00,Network,DNS,DNS Service,CI-DNS-CORE-01,P4,Network Ops,DNS related issue reported by user,61
+INC202600311,2025-12-07 09:00:00,2025-12-07 11:41:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P3,End User Computing Ops,Printers related issue reported by user,161
+INC202600312,2025-11-19 14:00:00,2025-11-19 15:59:00,Network,VPN,VPN Service,CI-VPN-GW-01,P4,Network Ops,VPN related issue reported by user,119
+INC202600313,2025-11-04 14:00:00,2025-11-04 15:30:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,90
+INC202600314,2025-12-20 09:00:00,2025-12-20 09:55:00,Collaboration,Email,Email Service,CI-MAIL-01,P1,Collaboration Ops,Email related issue reported by user,55
+INC202600315,2026-01-23 13:00:00,2026-01-23 15:30:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P1,End User Computing Ops,Endpoint Management related issue reported by user,150
+INC202600316,2026-01-29 10:00:00,2026-01-29 10:31:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,31
+INC202600317,2025-11-11 08:00:00,2025-11-11 10:50:00,Collaboration,Email,Email Service,CI-MAIL-01,P4,Collaboration Ops,Email related issue reported by user,170
+INC202600318,2026-01-17 16:00:00,2026-01-17 17:30:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,90
+INC202600319,2025-12-09 09:00:00,2025-12-09 12:53:00,Network,VPN,VPN Service,CI-VPN-GW-01,P3,Network Ops,VPN related issue reported by user,233
+INC202600320,2026-01-19 15:00:00,2026-01-19 17:37:00,Network,VPN,VPN Service,CI-VPN-GW-01,P4,Network Ops,VPN related issue reported by user,157
+INC202600321,2026-01-16 16:00:00,2026-01-16 17:31:00,Network,DNS,DNS Service,CI-DNS-CORE-01,P3,Network Ops,DNS related issue reported by user,91
+INC202600322,2025-11-19 12:00:00,2025-11-19 13:31:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,91
+INC202600323,2026-01-13 14:00:00,2026-01-13 16:44:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P3,End User Computing Ops,VDI related issue reported by user,164
+INC202600324,2025-12-17 09:00:00,2025-12-17 11:39:00,Business Apps,CRM,CRM,CI-CRM-01,P3,Business Apps Ops,CRM related issue reported by user,159
+INC202600325,2026-01-10 08:00:00,2026-01-10 10:09:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P1,Identity & Access Ops,MFA related issue reported by user,129
+INC202600326,2025-12-18 12:00:00,2025-12-18 12:47:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P3,Security Ops,Phishing related issue reported by user,47
+INC202600327,2025-12-15 11:00:00,2025-12-15 14:47:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,227
+INC202600328,2026-01-14 13:00:00,2026-01-14 14:56:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,116
+INC202600329,2026-01-22 10:00:00,2026-01-22 12:32:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P4,Security Ops,EDR Alerts related issue reported by user,152
+INC202600330,2026-01-20 10:00:00,2026-01-20 12:27:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,147
+INC202600331,2025-11-05 12:00:00,2025-11-05 12:40:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,40
+INC202600332,2025-12-11 12:00:00,2025-12-11 14:49:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P4,Business Apps Ops,HRIS related issue reported by user,169
+INC202600333,2025-12-31 12:00:00,2025-12-31 14:01:00,Network,DNS,DNS Service,CI-DNS-CORE-01,P2,Network Ops,DNS related issue reported by user,121
+INC202600334,2025-11-07 18:00:00,2025-11-07 20:04:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P2,Collaboration Ops,Teams/Zoom related issue reported by user,124
+INC202600335,2025-12-26 14:00:00,2025-12-26 16:08:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P4,Security Ops,EDR Alerts related issue reported by user,128
+INC202600336,2025-12-14 10:00:00,2025-12-14 13:54:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P3,Identity & Access Ops,Password Reset related issue reported by user,234
+INC202600337,2026-01-06 12:00:00,2026-01-06 14:20:00,Network,DNS,DNS Service,CI-DNS-CORE-01,P3,Network Ops,DNS related issue reported by user,140
+INC202600338,2026-01-17 10:00:00,2026-01-17 10:50:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P3,Business Apps Ops,HRIS related issue reported by user,50
+INC202600339,2025-12-12 18:00:00,2025-12-12 21:33:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P3,Collaboration Ops,Teams/Zoom related issue reported by user,213
+INC202600340,2025-12-25 10:00:00,2025-12-25 10:40:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,40
+INC202600341,2025-12-16 17:00:00,2025-12-16 20:52:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P3,Identity & Access Ops,MFA related issue reported by user,232
+INC202600342,2025-11-08 09:00:00,2025-11-08 11:41:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,161
+INC202600343,2026-01-26 10:00:00,2026-01-26 13:23:00,Network,VPN,VPN Service,CI-VPN-GW-01,P4,Network Ops,VPN related issue reported by user,203
+INC202600344,2025-12-27 08:00:00,2025-12-27 11:15:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,195
+INC202600345,2025-12-17 13:00:00,2025-12-17 14:09:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P1,Identity & Access Ops,Password Reset related issue reported by user,69
+INC202600346,2026-01-26 15:00:00,2026-01-26 15:49:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P3,Collaboration Ops,Teams/Zoom related issue reported by user,49
+INC202600347,2026-01-13 10:00:00,2026-01-13 13:16:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P3,Business Apps Ops,HRIS related issue reported by user,196
+INC202600348,2025-12-06 11:00:00,2025-12-06 13:37:00,Network,VPN,VPN Service,CI-VPN-GW-01,P3,Network Ops,VPN related issue reported by user,157
+INC202600349,2026-01-06 14:00:00,2026-01-06 15:36:00,Business Apps,ERP,ERP,CI-ERP-01,P3,Business Apps Ops,ERP related issue reported by user,96
+INC202600350,2025-12-28 11:00:00,2025-12-28 13:35:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P3,Business Apps Ops,HRIS related issue reported by user,155
+INC202600351,2025-11-26 09:00:00,2025-11-26 12:32:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,212
+INC202600352,2025-12-27 09:00:00,2025-12-27 12:31:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,211
+INC202600353,2025-11-09 16:00:00,2025-11-09 17:10:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P4,Business Apps Ops,HRIS related issue reported by user,70
+INC202600354,2026-01-29 18:00:00,2026-01-29 19:01:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P3,End User Computing Ops,Printers related issue reported by user,61
+INC202600355,2025-11-26 10:00:00,2025-11-26 12:51:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P1,End User Computing Ops,Printers related issue reported by user,171
+INC202600356,2026-01-13 13:00:00,2026-01-13 13:52:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P2,Identity & Access Ops,Password Reset related issue reported by user,52
+INC202600357,2025-11-09 12:00:00,2025-11-09 14:44:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P3,Identity & Access Ops,Password Reset related issue reported by user,164
+INC202600358,2025-12-23 14:00:00,2025-12-23 15:51:00,Business Apps,ERP,ERP,CI-ERP-01,P2,Business Apps Ops,ERP related issue reported by user,111
+INC202600359,2026-01-22 09:00:00,2026-01-22 10:58:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P3,Identity & Access Ops,MFA related issue reported by user,118
+INC202600360,2025-11-17 16:00:00,2025-11-17 17:03:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P2,Security Ops,Account Lockout related issue reported by user,63
+INC202600361,2025-12-26 16:00:00,2025-12-26 17:47:00,Network,VPN,VPN Service,CI-VPN-GW-01,P3,Network Ops,VPN related issue reported by user,107
+INC202600362,2025-11-22 10:00:00,2025-11-22 12:42:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P3,Collaboration Ops,Calendar related issue reported by user,162
+INC202600363,2025-12-07 09:00:00,2025-12-07 11:51:00,Collaboration,Email,Email Service,CI-MAIL-01,P3,Collaboration Ops,Email related issue reported by user,171
+INC202600364,2025-12-06 10:00:00,2025-12-06 10:53:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,53
+INC202600365,2026-01-04 18:00:00,2026-01-04 19:09:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P4,End User Computing Ops,VDI related issue reported by user,69
+INC202600366,2025-11-22 18:00:00,2025-11-22 19:56:00,Business Apps,CRM,CRM,CI-CRM-01,P4,Business Apps Ops,CRM related issue reported by user,116
+INC202600367,2026-01-12 08:00:00,2026-01-12 11:14:00,Network,VPN,VPN Service,CI-VPN-GW-01,P1,Network Ops,VPN related issue reported by user,194
+INC202600368,2026-01-13 12:00:00,2026-01-13 14:16:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P3,Security Ops,Phishing related issue reported by user,136
+INC202600369,2026-01-19 18:00:00,2026-01-19 20:49:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P4,Network Ops,WiFi related issue reported by user,169
+INC202600370,2025-12-08 18:00:00,2025-12-08 21:56:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P3,Collaboration Ops,Teams/Zoom related issue reported by user,236
+INC202600371,2026-01-27 14:00:00,2026-01-27 14:45:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P2,Collaboration Ops,Teams/Zoom related issue reported by user,45
+INC202600372,2025-11-21 15:00:00,2025-11-21 16:57:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P3,Identity & Access Ops,MFA related issue reported by user,117
+INC202600373,2026-01-17 10:00:00,2026-01-17 11:58:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P3,Collaboration Ops,Calendar related issue reported by user,118
+INC202600374,2025-12-22 10:00:00,2025-12-22 11:51:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P3,Collaboration Ops,Calendar related issue reported by user,111
+INC202600375,2025-12-01 15:00:00,2025-12-01 16:06:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,66
+INC202600376,2025-11-13 08:00:00,2025-11-13 10:17:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P4,Collaboration Ops,Teams/Zoom related issue reported by user,137
+INC202600377,2025-12-02 10:00:00,2025-12-02 11:18:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P3,Collaboration Ops,Calendar related issue reported by user,78
+INC202600378,2025-11-21 15:00:00,2025-11-21 16:48:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P3,Business Apps Ops,HRIS related issue reported by user,108
+INC202600379,2026-01-03 08:00:00,2026-01-03 09:31:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,91
+INC202600380,2025-11-28 17:00:00,2025-11-28 19:36:00,Collaboration,Email,Email Service,CI-MAIL-01,P2,Collaboration Ops,Email related issue reported by user,156
+INC202600381,2026-01-16 18:00:00,2026-01-16 18:32:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,32
+INC202600382,2025-11-14 14:00:00,2025-11-14 17:45:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P3,End User Computing Ops,Printers related issue reported by user,225
+INC202600383,2025-12-22 13:00:00,2025-12-22 15:53:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P2,Network Ops,WiFi related issue reported by user,173
+INC202600384,2025-11-25 13:00:00,2025-11-25 15:39:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P2,Business Apps Ops,HRIS related issue reported by user,159
+INC202600385,2025-12-28 16:00:00,2025-12-28 17:00:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P3,Collaboration Ops,Calendar related issue reported by user,60
+INC202600386,2025-11-17 09:00:00,2025-11-17 10:56:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P3,Identity & Access Ops,MFA related issue reported by user,116
+INC202600387,2026-01-11 13:00:00,2026-01-11 15:12:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,132
+INC202600388,2026-01-04 08:00:00,2026-01-04 09:55:00,Network,VPN,VPN Service,CI-VPN-GW-01,P2,Network Ops,VPN related issue reported by user,115
+INC202600389,2025-12-31 16:00:00,2025-12-31 18:41:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,161
+INC202600390,2025-11-18 13:00:00,2025-11-18 16:07:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P2,Business Apps Ops,HRIS related issue reported by user,187
+INC202600391,2025-12-09 17:00:00,2025-12-09 19:46:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P4,Collaboration Ops,Calendar related issue reported by user,166
+INC202600392,2026-01-02 17:00:00,2026-01-02 19:04:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P4,Collaboration Ops,Teams/Zoom related issue reported by user,124
+INC202600393,2025-12-13 18:00:00,2025-12-13 21:53:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,233
+INC202600394,2026-01-28 18:00:00,2026-01-28 21:17:00,Network,DNS,DNS Service,CI-DNS-CORE-01,P3,Network Ops,DNS related issue reported by user,197
+INC202600395,2026-01-14 17:00:00,2026-01-14 19:32:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P2,End User Computing Ops,VDI related issue reported by user,152
+INC202600396,2025-11-22 16:00:00,2025-11-22 18:07:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,127
+INC202600397,2025-11-19 18:00:00,2025-11-19 21:29:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,209
+INC202600398,2025-11-15 11:00:00,2025-11-15 12:08:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,68
+INC202600399,2025-12-23 11:00:00,2025-12-23 13:30:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P3,Identity & Access Ops,Password Reset related issue reported by user,150
+INC202600400,2025-11-08 10:00:00,2025-11-08 13:19:00,Business Apps,ERP,ERP,CI-ERP-01,P3,Business Apps Ops,ERP related issue reported by user,199
+INC202600401,2026-01-01 16:00:00,2026-01-01 18:27:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P4,Identity & Access Ops,MFA related issue reported by user,147
+INC202600402,2026-01-08 13:00:00,2026-01-08 16:34:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P3,Business Apps Ops,HRIS related issue reported by user,214
+INC202600403,2026-01-27 18:00:00,2026-01-27 19:19:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,79
+INC202600404,2025-12-02 12:00:00,2025-12-02 13:46:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P3,Business Apps Ops,HRIS related issue reported by user,106
+INC202600405,2025-12-07 11:00:00,2025-12-07 13:32:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,152
+INC202600406,2025-12-15 16:00:00,2025-12-15 18:56:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,176
+INC202600407,2026-01-26 16:00:00,2026-01-26 19:47:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P4,Identity & Access Ops,MFA related issue reported by user,227
+INC202600408,2025-11-19 12:00:00,2025-11-19 12:50:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P4,Network Ops,WiFi related issue reported by user,50
+INC202600409,2025-12-15 15:00:00,2025-12-15 16:24:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,84
+INC202600410,2025-11-26 16:00:00,2025-11-26 17:05:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P3,Collaboration Ops,Calendar related issue reported by user,65
+INC202600411,2025-11-14 17:00:00,2025-11-14 17:42:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,42
+INC202600412,2026-01-25 16:00:00,2026-01-25 16:55:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P3,End User Computing Ops,VDI related issue reported by user,55
+INC202600413,2025-12-23 13:00:00,2025-12-23 16:47:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P2,Security Ops,EDR Alerts related issue reported by user,227
+INC202600414,2025-11-18 08:00:00,2025-11-18 10:31:00,Business Apps,ERP,ERP,CI-ERP-01,P3,Business Apps Ops,ERP related issue reported by user,151
+INC202600415,2026-01-01 18:00:00,2026-01-01 21:15:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P3,End User Computing Ops,Printers related issue reported by user,195
+INC202600416,2025-11-08 09:00:00,2025-11-08 12:39:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,219
+INC202600417,2025-11-05 10:00:00,2025-11-05 10:39:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P4,Identity & Access Ops,SSO related issue reported by user,39
+INC202600418,2025-12-21 15:00:00,2025-12-21 16:44:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P4,End User Computing Ops,VDI related issue reported by user,104
+INC202600419,2025-11-05 08:00:00,2025-11-05 09:55:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P3,Collaboration Ops,Calendar related issue reported by user,115
+INC202600420,2025-12-07 15:00:00,2025-12-07 16:04:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,64
+INC202600421,2026-01-04 15:00:00,2026-01-04 16:54:00,Collaboration,Email,Email Service,CI-MAIL-01,P4,Collaboration Ops,Email related issue reported by user,114
+INC202600422,2025-11-21 15:00:00,2025-11-21 15:33:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,33
+INC202600423,2025-12-14 12:00:00,2025-12-14 13:14:00,Business Apps,CRM,CRM,CI-CRM-01,P3,Business Apps Ops,CRM related issue reported by user,74
+INC202600424,2026-01-18 18:00:00,2026-01-18 18:52:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P3,Identity & Access Ops,MFA related issue reported by user,52
+INC202600425,2025-12-22 18:00:00,2025-12-22 20:32:00,Network,VPN,VPN Service,CI-VPN-GW-01,P4,Network Ops,VPN related issue reported by user,152
+INC202600426,2025-12-12 11:00:00,2025-12-12 13:24:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,144
+INC202600427,2025-12-05 13:00:00,2025-12-05 13:32:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P3,Collaboration Ops,Calendar related issue reported by user,32
+INC202600428,2025-12-04 18:00:00,2025-12-04 21:20:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P3,Collaboration Ops,Calendar related issue reported by user,200
+INC202600429,2025-11-16 15:00:00,2025-11-16 17:38:00,Collaboration,Email,Email Service,CI-MAIL-01,P3,Collaboration Ops,Email related issue reported by user,158
+INC202600430,2025-12-10 09:00:00,2025-12-10 10:26:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,86
+INC202600431,2025-11-29 10:00:00,2025-11-29 13:05:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,185
+INC202600432,2025-12-18 14:00:00,2025-12-18 17:43:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P4,Security Ops,Account Lockout related issue reported by user,223
+INC202600433,2026-01-08 18:00:00,2026-01-08 21:02:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,182
+INC202600434,2025-11-11 16:00:00,2025-11-11 16:49:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P3,Identity & Access Ops,Password Reset related issue reported by user,49
+INC202600435,2026-01-12 09:00:00,2026-01-12 10:21:00,Network,DNS,DNS Service,CI-DNS-CORE-01,P4,Network Ops,DNS related issue reported by user,81
+INC202600436,2026-01-13 16:00:00,2026-01-13 18:43:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,163
+INC202600437,2025-12-27 09:00:00,2025-12-27 11:35:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P3,Security Ops,Phishing related issue reported by user,155
+INC202600438,2025-11-12 16:00:00,2025-11-12 18:41:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,161
+INC202600439,2025-12-24 15:00:00,2025-12-24 18:22:00,Business Apps,ERP,ERP,CI-ERP-01,P3,Business Apps Ops,ERP related issue reported by user,202
+INC202600440,2025-12-10 08:00:00,2025-12-10 11:40:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P4,Identity & Access Ops,MFA related issue reported by user,220
+INC202600441,2025-11-28 17:00:00,2025-11-28 20:29:00,Network,VPN,VPN Service,CI-VPN-GW-01,P3,Network Ops,VPN related issue reported by user,209
+INC202600442,2025-11-09 16:00:00,2025-11-09 18:30:00,Network,VPN,VPN Service,CI-VPN-GW-01,P4,Network Ops,VPN related issue reported by user,150
+INC202600443,2025-11-05 12:00:00,2025-11-05 15:46:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,226
+INC202600444,2026-01-22 18:00:00,2026-01-22 20:07:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P4,Identity & Access Ops,MFA related issue reported by user,127
+INC202600445,2025-12-28 14:00:00,2025-12-28 17:19:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,199
+INC202600446,2026-01-09 10:00:00,2026-01-09 12:47:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P2,Security Ops,EDR Alerts related issue reported by user,167
+INC202600447,2025-12-21 16:00:00,2025-12-21 16:30:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P4,End User Computing Ops,VDI related issue reported by user,30
+INC202600448,2025-11-03 12:00:00,2025-11-03 14:18:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P3,Identity & Access Ops,Password Reset related issue reported by user,138
+INC202600449,2026-01-08 14:00:00,2026-01-08 15:09:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,69
+INC202600450,2025-12-06 11:00:00,2025-12-06 14:19:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P1,Security Ops,Phishing related issue reported by user,199
+INC202600451,2025-12-24 17:00:00,2025-12-24 17:55:00,Network,VPN,VPN Service,CI-VPN-GW-01,P3,Network Ops,VPN related issue reported by user,55
+INC202600452,2026-01-16 08:00:00,2026-01-16 08:42:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P3,Identity & Access Ops,Password Reset related issue reported by user,42
+INC202600453,2025-12-02 08:00:00,2025-12-02 09:25:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P3,Identity & Access Ops,MFA related issue reported by user,85
+INC202600454,2025-11-08 10:00:00,2025-11-08 13:37:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P3,Business Apps Ops,HRIS related issue reported by user,217
+INC202600455,2026-01-13 13:00:00,2026-01-13 16:59:00,Business Apps,CRM,CRM,CI-CRM-01,P3,Business Apps Ops,CRM related issue reported by user,239
+INC202600456,2025-12-12 11:00:00,2025-12-12 13:43:00,Collaboration,Email,Email Service,CI-MAIL-01,P4,Collaboration Ops,Email related issue reported by user,163
+INC202600457,2025-11-29 14:00:00,2025-11-29 17:01:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P2,Collaboration Ops,Teams/Zoom related issue reported by user,181
+INC202600458,2025-11-23 18:00:00,2025-11-23 18:42:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,42
+INC202600459,2025-12-15 18:00:00,2025-12-15 19:51:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,111
+INC202600460,2026-01-29 14:00:00,2026-01-29 15:17:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,77
+INC202600461,2026-01-08 15:00:00,2026-01-08 18:31:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,211
+INC202600462,2025-11-19 15:00:00,2025-11-19 17:16:00,Network,DNS,DNS Service,CI-DNS-CORE-01,P3,Network Ops,DNS related issue reported by user,136
+INC202600463,2026-01-11 16:00:00,2026-01-11 17:22:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P3,End User Computing Ops,Printers related issue reported by user,82
+INC202600464,2025-12-13 18:00:00,2025-12-13 18:53:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P4,Network Ops,WiFi related issue reported by user,53
+INC202600465,2026-01-08 11:00:00,2026-01-08 14:04:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,184
+INC202600466,2026-01-17 08:00:00,2026-01-17 11:00:00,Network,VPN,VPN Service,CI-VPN-GW-01,P4,Network Ops,VPN related issue reported by user,180
+INC202600467,2026-01-25 16:00:00,2026-01-25 17:55:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P3,End User Computing Ops,Printers related issue reported by user,115
+INC202600468,2025-12-09 08:00:00,2025-12-09 09:00:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P4,End User Computing Ops,Endpoint Management related issue reported by user,60
+INC202600469,2026-01-01 11:00:00,2026-01-01 13:11:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,131
+INC202600470,2025-12-01 16:00:00,2025-12-01 18:46:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P3,Collaboration Ops,Teams/Zoom related issue reported by user,166
+INC202600471,2026-01-23 13:00:00,2026-01-23 15:37:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P3,Collaboration Ops,Teams/Zoom related issue reported by user,157
+INC202600472,2025-12-30 09:00:00,2025-12-30 10:51:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,111
+INC202600473,2025-11-27 13:00:00,2025-11-27 14:26:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P1,Collaboration Ops,Teams/Zoom related issue reported by user,86
+INC202600474,2025-11-19 08:00:00,2025-11-19 10:58:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P4,Collaboration Ops,Calendar related issue reported by user,178
+INC202600475,2025-12-24 12:00:00,2025-12-24 14:07:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,127
+INC202600476,2026-01-12 11:00:00,2026-01-12 14:25:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P3,Identity & Access Ops,Password Reset related issue reported by user,205
+INC202600477,2025-12-14 12:00:00,2025-12-14 14:35:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P3,Identity & Access Ops,Password Reset related issue reported by user,155
+INC202600478,2025-12-29 10:00:00,2025-12-29 13:34:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P2,Security Ops,EDR Alerts related issue reported by user,214
+INC202600479,2026-01-09 15:00:00,2026-01-09 15:45:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P4,End User Computing Ops,VDI related issue reported by user,45
+INC202600480,2026-01-07 08:00:00,2026-01-07 08:31:00,Network,DNS,DNS Service,CI-DNS-CORE-01,P1,Network Ops,DNS related issue reported by user,31
+INC202600481,2025-12-23 10:00:00,2025-12-23 11:08:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P2,Security Ops,Phishing related issue reported by user,68
+INC202600482,2025-11-02 11:00:00,2025-11-02 14:08:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P3,Business Apps Ops,HRIS related issue reported by user,188
+INC202600483,2026-01-21 18:00:00,2026-01-21 18:34:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P3,Business Apps Ops,HRIS related issue reported by user,34
+INC202600484,2025-11-01 16:00:00,2025-11-01 18:45:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P1,Business Apps Ops,HRIS related issue reported by user,165
+INC202600485,2025-12-06 16:00:00,2025-12-06 19:28:00,Collaboration,Email,Email Service,CI-MAIL-01,P3,Collaboration Ops,Email related issue reported by user,208
+INC202600486,2026-01-26 14:00:00,2026-01-26 16:44:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P4,End User Computing Ops,Endpoint Management related issue reported by user,164
+INC202600487,2025-11-20 11:00:00,2025-11-20 14:58:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P3,End User Computing Ops,VDI related issue reported by user,238
+INC202600488,2025-12-16 12:00:00,2025-12-16 14:13:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,133
+INC202600489,2025-12-29 17:00:00,2025-12-29 20:25:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P3,End User Computing Ops,VDI related issue reported by user,205
+INC202600490,2025-11-11 18:00:00,2025-11-11 20:07:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P2,Security Ops,Phishing related issue reported by user,127
+INC202600491,2025-12-19 16:00:00,2025-12-19 19:29:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,209
+INC202600492,2025-11-22 09:00:00,2025-11-22 10:54:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P3,Identity & Access Ops,MFA related issue reported by user,114
+INC202600493,2026-01-12 09:00:00,2026-01-12 12:27:00,Business Apps,ERP,ERP,CI-ERP-01,P3,Business Apps Ops,ERP related issue reported by user,207
+INC202600494,2026-01-12 15:00:00,2026-01-12 18:25:00,Collaboration,Email,Email Service,CI-MAIL-01,P4,Collaboration Ops,Email related issue reported by user,205
+INC202600495,2025-12-06 16:00:00,2025-12-06 17:50:00,Business Apps,CRM,CRM,CI-CRM-01,P1,Business Apps Ops,CRM related issue reported by user,110
+INC202600496,2025-11-03 11:00:00,2025-11-03 14:32:00,Business Apps,ERP,ERP,CI-ERP-01,P3,Business Apps Ops,ERP related issue reported by user,212
+INC202600497,2025-12-21 09:00:00,2025-12-21 11:55:00,Collaboration,Email,Email Service,CI-MAIL-01,P3,Collaboration Ops,Email related issue reported by user,175
+INC202600498,2025-12-20 18:00:00,2025-12-20 21:39:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P3,Business Apps Ops,HRIS related issue reported by user,219
+INC202600499,2025-11-18 09:00:00,2025-11-18 09:43:00,Business Apps,CRM,CRM,CI-CRM-01,P4,Business Apps Ops,CRM related issue reported by user,43
+INC202600500,2025-11-13 14:00:00,2025-11-13 17:46:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,226
+INC202600501,2026-01-18 17:00:00,2026-01-18 18:39:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P1,Identity & Access Ops,MFA related issue reported by user,99
+INC202600502,2025-12-28 15:00:00,2025-12-28 17:06:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P3,End User Computing Ops,Printers related issue reported by user,126
+INC202600503,2025-12-26 10:00:00,2025-12-26 10:51:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,51
+INC202600504,2026-01-19 12:00:00,2026-01-19 13:38:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P2,End User Computing Ops,VDI related issue reported by user,98
+INC202600505,2025-11-20 14:00:00,2025-11-20 16:09:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P2,Security Ops,Account Lockout related issue reported by user,129
+INC202600506,2025-12-11 13:00:00,2025-12-11 14:48:00,Network,VPN,VPN Service,CI-VPN-GW-01,P1,Network Ops,VPN related issue reported by user,108
+INC202600507,2025-12-27 13:00:00,2025-12-27 14:17:00,Collaboration,Email,Email Service,CI-MAIL-01,P2,Collaboration Ops,Email related issue reported by user,77
+INC202600508,2025-12-26 15:00:00,2025-12-26 15:56:00,Business Apps,CRM,CRM,CI-CRM-01,P3,Business Apps Ops,CRM related issue reported by user,56
+INC202600509,2025-11-04 09:00:00,2025-11-04 12:03:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P2,Collaboration Ops,Calendar related issue reported by user,183
+INC202600510,2025-12-12 14:00:00,2025-12-12 17:49:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,229
+INC202600511,2025-11-11 16:00:00,2025-11-11 19:25:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P3,End User Computing Ops,VDI related issue reported by user,205
+INC202600512,2025-12-19 10:00:00,2025-12-19 12:36:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P3,End User Computing Ops,Printers related issue reported by user,156
+INC202600513,2025-11-19 09:00:00,2025-11-19 10:46:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P3,End User Computing Ops,Printers related issue reported by user,106
+INC202600514,2026-01-01 09:00:00,2026-01-01 12:34:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P4,Collaboration Ops,Teams/Zoom related issue reported by user,214
+INC202600515,2026-01-20 15:00:00,2026-01-20 15:57:00,Business Apps,CRM,CRM,CI-CRM-01,P2,Business Apps Ops,CRM related issue reported by user,57
+INC202600516,2025-11-18 12:00:00,2025-11-18 15:08:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,188
+INC202600517,2025-12-19 13:00:00,2025-12-19 17:00:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P3,Identity & Access Ops,MFA related issue reported by user,240
+INC202600518,2026-01-23 17:00:00,2026-01-23 20:27:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P3,End User Computing Ops,Printers related issue reported by user,207
+INC202600519,2025-11-26 15:00:00,2025-11-26 16:51:00,Collaboration,Email,Email Service,CI-MAIL-01,P4,Collaboration Ops,Email related issue reported by user,111
+INC202600520,2025-12-08 18:00:00,2025-12-08 19:53:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P3,Identity & Access Ops,Password Reset related issue reported by user,113
+INC202600521,2025-12-19 12:00:00,2025-12-19 14:54:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P2,Identity & Access Ops,MFA related issue reported by user,174
+INC202600522,2025-11-26 17:00:00,2025-11-26 19:50:00,Business Apps,ERP,ERP,CI-ERP-01,P3,Business Apps Ops,ERP related issue reported by user,170
+INC202600523,2025-11-04 15:00:00,2025-11-04 16:44:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P3,Security Ops,Phishing related issue reported by user,104
+INC202600524,2026-01-28 09:00:00,2026-01-28 12:12:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P3,Identity & Access Ops,Password Reset related issue reported by user,192
+INC202600525,2025-12-09 11:00:00,2025-12-09 13:18:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P2,Collaboration Ops,Calendar related issue reported by user,138
+INC202600526,2025-12-19 09:00:00,2025-12-19 11:12:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P3,Identity & Access Ops,Password Reset related issue reported by user,132
+INC202600527,2026-01-08 16:00:00,2026-01-08 19:52:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,232
+INC202600528,2025-12-17 16:00:00,2025-12-17 16:57:00,Business Apps,CRM,CRM,CI-CRM-01,P4,Business Apps Ops,CRM related issue reported by user,57
+INC202600529,2025-12-02 18:00:00,2025-12-02 21:06:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P2,Security Ops,EDR Alerts related issue reported by user,186
+INC202600530,2025-11-06 17:00:00,2025-11-06 20:42:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,222
+INC202600531,2025-12-13 14:00:00,2025-12-13 15:26:00,Network,VPN,VPN Service,CI-VPN-GW-01,P2,Network Ops,VPN related issue reported by user,86
+INC202600532,2026-01-05 16:00:00,2026-01-05 17:26:00,Business Apps,CRM,CRM,CI-CRM-01,P3,Business Apps Ops,CRM related issue reported by user,86
+INC202600533,2025-12-28 13:00:00,2025-12-28 16:00:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P3,Identity & Access Ops,MFA related issue reported by user,180
+INC202600534,2026-01-28 16:00:00,2026-01-28 18:33:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P4,End User Computing Ops,Printers related issue reported by user,153
+INC202600535,2025-11-14 12:00:00,2025-11-14 15:36:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P2,Identity & Access Ops,SSO related issue reported by user,216
+INC202600536,2025-11-19 13:00:00,2025-11-19 14:22:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P3,Collaboration Ops,Teams/Zoom related issue reported by user,82
+INC202600537,2026-01-06 15:00:00,2026-01-06 18:34:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P2,Collaboration Ops,Teams/Zoom related issue reported by user,214
+INC202600538,2026-01-29 15:00:00,2026-01-29 18:57:00,Collaboration,Email,Email Service,CI-MAIL-01,P3,Collaboration Ops,Email related issue reported by user,237
+INC202600539,2025-11-15 08:00:00,2025-11-15 11:54:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P2,Collaboration Ops,Calendar related issue reported by user,234
+INC202600540,2025-11-22 11:00:00,2025-11-22 12:54:00,Business Apps,ERP,ERP,CI-ERP-01,P3,Business Apps Ops,ERP related issue reported by user,114
+INC202600541,2026-01-11 14:00:00,2026-01-11 17:11:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,191
+INC202600542,2025-11-24 10:00:00,2025-11-24 10:37:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,37
+INC202600543,2026-01-18 11:00:00,2026-01-18 11:31:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P3,Identity & Access Ops,Password Reset related issue reported by user,31
+INC202600544,2025-11-28 11:00:00,2025-11-28 11:46:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P4,Collaboration Ops,Calendar related issue reported by user,46
+INC202600545,2026-01-13 09:00:00,2026-01-13 10:20:00,Business Apps,ERP,ERP,CI-ERP-01,P3,Business Apps Ops,ERP related issue reported by user,80
+INC202600546,2025-12-29 09:00:00,2025-12-29 11:45:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P4,Collaboration Ops,Calendar related issue reported by user,165
+INC202600547,2026-01-21 13:00:00,2026-01-21 16:00:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P3,Business Apps Ops,HRIS related issue reported by user,180
+INC202600548,2025-11-15 13:00:00,2025-11-15 16:58:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P3,Collaboration Ops,Teams/Zoom related issue reported by user,238
+INC202600549,2026-01-26 12:00:00,2026-01-26 13:04:00,Business Apps,CRM,CRM,CI-CRM-01,P2,Business Apps Ops,CRM related issue reported by user,64
+INC202600550,2025-12-11 09:00:00,2025-12-11 11:05:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P2,End User Computing Ops,Printers related issue reported by user,125
+INC202600551,2026-01-28 10:00:00,2026-01-28 11:05:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P3,Business Apps Ops,HRIS related issue reported by user,65
+INC202600552,2026-01-13 14:00:00,2026-01-13 16:47:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,167
+INC202600553,2026-01-28 18:00:00,2026-01-28 19:43:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P2,End User Computing Ops,VDI related issue reported by user,103
+INC202600554,2025-11-18 10:00:00,2025-11-18 12:01:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P3,Collaboration Ops,Teams/Zoom related issue reported by user,121
+INC202600555,2025-11-02 15:00:00,2025-11-02 17:53:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P4,End User Computing Ops,Endpoint Management related issue reported by user,173
+INC202600556,2026-01-04 18:00:00,2026-01-04 20:16:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P3,Identity & Access Ops,MFA related issue reported by user,136
+INC202600557,2025-12-27 15:00:00,2025-12-27 18:53:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,233
+INC202600558,2025-11-29 12:00:00,2025-11-29 13:43:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,103
+INC202600559,2025-11-22 15:00:00,2025-11-22 17:36:00,Business Apps,CRM,CRM,CI-CRM-01,P3,Business Apps Ops,CRM related issue reported by user,156
+INC202600560,2026-01-10 16:00:00,2026-01-10 19:48:00,Network,DNS,DNS Service,CI-DNS-CORE-01,P2,Network Ops,DNS related issue reported by user,228
+INC202600561,2026-01-09 13:00:00,2026-01-09 15:22:00,Business Apps,ERP,ERP,CI-ERP-01,P3,Business Apps Ops,ERP related issue reported by user,142
+INC202600562,2026-01-09 11:00:00,2026-01-09 14:17:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,197
+INC202600563,2025-12-02 12:00:00,2025-12-02 15:59:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,239
+INC202600564,2025-11-12 15:00:00,2025-11-12 18:38:00,Network,VPN,VPN Service,CI-VPN-GW-01,P3,Network Ops,VPN related issue reported by user,218
+INC202600565,2026-01-15 13:00:00,2026-01-15 14:12:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,72
+INC202600566,2026-01-18 10:00:00,2026-01-18 12:55:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P4,End User Computing Ops,Endpoint Management related issue reported by user,175
+INC202600567,2025-12-15 16:00:00,2025-12-15 17:52:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P3,Collaboration Ops,Calendar related issue reported by user,112
+INC202600568,2025-12-08 12:00:00,2025-12-08 14:41:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P4,Business Apps Ops,HRIS related issue reported by user,161
+INC202600569,2026-01-26 09:00:00,2026-01-26 10:40:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P4,End User Computing Ops,Printers related issue reported by user,100
+INC202600570,2026-01-23 10:00:00,2026-01-23 13:32:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P3,Security Ops,Phishing related issue reported by user,212
+INC202600571,2025-12-12 11:00:00,2025-12-12 13:57:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,177
+INC202600572,2026-01-20 12:00:00,2026-01-20 12:49:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,49
+INC202600573,2026-01-21 09:00:00,2026-01-21 12:27:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P3,Identity & Access Ops,Password Reset related issue reported by user,207
+INC202600574,2025-12-18 15:00:00,2025-12-18 18:48:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P3,Identity & Access Ops,MFA related issue reported by user,228
+INC202600575,2025-11-12 15:00:00,2025-11-12 15:46:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,46
+INC202600576,2026-01-08 14:00:00,2026-01-08 16:36:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P4,End User Computing Ops,Printers related issue reported by user,156
+INC202600577,2025-12-05 13:00:00,2025-12-05 14:03:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P3,Collaboration Ops,Teams/Zoom related issue reported by user,63
+INC202600578,2026-01-12 15:00:00,2026-01-12 15:41:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P3,Collaboration Ops,Calendar related issue reported by user,41
+INC202600579,2025-11-13 18:00:00,2025-11-13 19:10:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P2,Identity & Access Ops,SSO related issue reported by user,70
+INC202600580,2025-12-27 15:00:00,2025-12-27 18:26:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,206
+INC202600581,2025-11-17 18:00:00,2025-11-17 19:40:00,Collaboration,Email,Email Service,CI-MAIL-01,P4,Collaboration Ops,Email related issue reported by user,100
+INC202600582,2025-11-12 18:00:00,2025-11-12 21:20:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P2,Collaboration Ops,Teams/Zoom related issue reported by user,200
+INC202600583,2026-01-23 10:00:00,2026-01-23 13:35:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,215
+INC202600584,2026-01-29 11:00:00,2026-01-29 11:54:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P2,Identity & Access Ops,Password Reset related issue reported by user,54
+INC202600585,2025-11-01 11:00:00,2025-11-01 12:27:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P2,Identity & Access Ops,SSO related issue reported by user,87
+INC202600586,2026-01-06 18:00:00,2026-01-06 19:57:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P1,Identity & Access Ops,SSO related issue reported by user,117
+INC202600587,2025-11-16 14:00:00,2025-11-16 15:28:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P3,Security Ops,Phishing related issue reported by user,88
+INC202600588,2025-12-20 09:00:00,2025-12-20 11:04:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P2,Security Ops,Phishing related issue reported by user,124
+INC202600589,2025-12-09 10:00:00,2025-12-09 13:23:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,203
+INC202600590,2025-11-19 09:00:00,2025-11-19 12:16:00,Business Apps,CRM,CRM,CI-CRM-01,P1,Business Apps Ops,CRM related issue reported by user,196
+INC202600591,2025-11-22 15:00:00,2025-11-22 18:41:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P3,Collaboration Ops,Calendar related issue reported by user,221
+INC202600592,2025-11-20 14:00:00,2025-11-20 15:25:00,Business Apps,CRM,CRM,CI-CRM-01,P3,Business Apps Ops,CRM related issue reported by user,85
+INC202600593,2025-11-12 09:00:00,2025-11-12 11:08:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,128
+INC202600594,2025-12-15 14:00:00,2025-12-15 17:15:00,Collaboration,Email,Email Service,CI-MAIL-01,P3,Collaboration Ops,Email related issue reported by user,195
+INC202600595,2025-11-11 11:00:00,2025-11-11 14:05:00,Business Apps,CRM,CRM,CI-CRM-01,P3,Business Apps Ops,CRM related issue reported by user,185
+INC202600596,2025-12-07 08:00:00,2025-12-07 11:05:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,185
+INC202600597,2026-01-05 11:00:00,2026-01-05 11:43:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,43
+INC202600598,2025-12-01 15:00:00,2025-12-01 18:13:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,193
+INC202600599,2026-01-16 09:00:00,2026-01-16 10:51:00,Business Apps,ERP,ERP,CI-ERP-01,P4,Business Apps Ops,ERP related issue reported by user,111
+INC202600600,2025-11-17 14:00:00,2025-11-17 17:24:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P3,Business Apps Ops,HRIS related issue reported by user,204
+INC202600601,2025-11-23 15:00:00,2025-11-23 15:33:00,Network,VPN,VPN Service,CI-VPN-GW-01,P3,Network Ops,VPN related issue reported by user,33
+INC202600602,2025-12-04 11:00:00,2025-12-04 13:11:00,Network,VPN,VPN Service,CI-VPN-GW-01,P4,Network Ops,VPN related issue reported by user,131
+INC202600603,2026-01-04 12:00:00,2026-01-04 14:16:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,136
+INC202600604,2025-12-25 14:00:00,2025-12-25 17:07:00,Network,DNS,DNS Service,CI-DNS-CORE-01,P3,Network Ops,DNS related issue reported by user,187
+INC202600605,2025-11-20 12:00:00,2025-11-20 13:22:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P2,Network Ops,WiFi related issue reported by user,82
+INC202600606,2025-11-20 16:00:00,2025-11-20 19:45:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P3,Collaboration Ops,Teams/Zoom related issue reported by user,225
+INC202600607,2026-01-23 18:00:00,2026-01-23 20:21:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P3,Security Ops,Phishing related issue reported by user,141
+INC202600608,2025-12-01 08:00:00,2025-12-01 08:59:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P4,End User Computing Ops,Endpoint Management related issue reported by user,59
+INC202600609,2025-12-29 17:00:00,2025-12-29 20:39:00,Business Apps,ERP,ERP,CI-ERP-01,P3,Business Apps Ops,ERP related issue reported by user,219
+INC202600610,2026-01-24 10:00:00,2026-01-24 13:29:00,Network,VPN,VPN Service,CI-VPN-GW-01,P3,Network Ops,VPN related issue reported by user,209
+INC202600611,2025-11-02 10:00:00,2025-11-02 13:50:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P3,Identity & Access Ops,MFA related issue reported by user,230
+INC202600612,2025-12-04 10:00:00,2025-12-04 11:38:00,Collaboration,Email,Email Service,CI-MAIL-01,P3,Collaboration Ops,Email related issue reported by user,98
+INC202600613,2025-11-16 08:00:00,2025-11-16 08:46:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P3,Collaboration Ops,Teams/Zoom related issue reported by user,46
+INC202600614,2025-12-04 17:00:00,2025-12-04 19:40:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P3,Security Ops,Phishing related issue reported by user,160
+INC202600615,2025-12-17 08:00:00,2025-12-17 09:10:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P2,Identity & Access Ops,Password Reset related issue reported by user,70
+INC202600616,2025-12-03 09:00:00,2025-12-03 10:28:00,Business Apps,CRM,CRM,CI-CRM-01,P3,Business Apps Ops,CRM related issue reported by user,88
+INC202600617,2026-01-05 08:00:00,2026-01-05 10:30:00,Network,VPN,VPN Service,CI-VPN-GW-01,P3,Network Ops,VPN related issue reported by user,150
+INC202600618,2025-12-17 14:00:00,2025-12-17 14:39:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P4,End User Computing Ops,Endpoint Management related issue reported by user,39
+INC202600619,2026-01-10 18:00:00,2026-01-10 20:16:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,136
+INC202600620,2025-12-11 12:00:00,2025-12-11 14:38:00,Network,DNS,DNS Service,CI-DNS-CORE-01,P3,Network Ops,DNS related issue reported by user,158
+INC202600621,2026-01-26 08:00:00,2026-01-26 08:41:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P4,End User Computing Ops,Endpoint Management related issue reported by user,41
+INC202600622,2025-12-22 09:00:00,2025-12-22 10:49:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P3,Identity & Access Ops,MFA related issue reported by user,109
+INC202600623,2025-12-12 09:00:00,2025-12-12 10:21:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P1,Business Apps Ops,HRIS related issue reported by user,81
+INC202600624,2025-12-08 17:00:00,2025-12-08 19:28:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P3,Collaboration Ops,Calendar related issue reported by user,148
+INC202600625,2025-12-18 17:00:00,2025-12-18 19:49:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,169
+INC202600626,2025-12-02 10:00:00,2025-12-02 12:48:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P1,Network Ops,WiFi related issue reported by user,168
+INC202600627,2025-12-15 18:00:00,2025-12-15 18:30:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P4,Security Ops,Phishing related issue reported by user,30
+INC202600628,2026-01-24 14:00:00,2026-01-24 15:22:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,82
+INC202600629,2026-01-07 11:00:00,2026-01-07 12:06:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P4,Identity & Access Ops,MFA related issue reported by user,66
+INC202600630,2025-12-06 09:00:00,2025-12-06 11:43:00,Network,VPN,VPN Service,CI-VPN-GW-01,P4,Network Ops,VPN related issue reported by user,163
+INC202600631,2025-12-23 13:00:00,2025-12-23 13:54:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P2,Identity & Access Ops,Password Reset related issue reported by user,54
+INC202600632,2026-01-04 10:00:00,2026-01-04 12:55:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P2,Security Ops,EDR Alerts related issue reported by user,175
+INC202600633,2025-11-08 14:00:00,2025-11-08 15:36:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P3,Security Ops,Phishing related issue reported by user,96
+INC202600634,2025-12-11 14:00:00,2025-12-11 16:25:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,145
+INC202600635,2025-12-05 11:00:00,2025-12-05 14:47:00,Network,VPN,VPN Service,CI-VPN-GW-01,P2,Network Ops,VPN related issue reported by user,227
+INC202600636,2026-01-14 09:00:00,2026-01-14 11:29:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P2,End User Computing Ops,Endpoint Management related issue reported by user,149
+INC202600637,2025-12-11 14:00:00,2025-12-11 17:47:00,Network,DNS,DNS Service,CI-DNS-CORE-01,P3,Network Ops,DNS related issue reported by user,227
+INC202600638,2025-11-27 15:00:00,2025-11-27 16:00:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P3,Collaboration Ops,Teams/Zoom related issue reported by user,60
+INC202600639,2025-11-12 10:00:00,2025-11-12 13:28:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P4,Security Ops,EDR Alerts related issue reported by user,208
+INC202600640,2026-01-17 08:00:00,2026-01-17 11:32:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P2,End User Computing Ops,Printers related issue reported by user,212
+INC202600641,2025-12-02 13:00:00,2025-12-02 14:46:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P1,Identity & Access Ops,Password Reset related issue reported by user,106
+INC202600642,2025-12-04 10:00:00,2025-12-04 12:52:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P4,Network Ops,WiFi related issue reported by user,172
+INC202600643,2026-01-10 11:00:00,2026-01-10 14:53:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P2,Network Ops,WiFi related issue reported by user,233
+INC202600644,2025-11-18 09:00:00,2025-11-18 10:26:00,Network,VPN,VPN Service,CI-VPN-GW-01,P4,Network Ops,VPN related issue reported by user,86
+INC202600645,2025-11-17 11:00:00,2025-11-17 14:15:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P3,Identity & Access Ops,MFA related issue reported by user,195
+INC202600646,2025-11-11 17:00:00,2025-11-11 17:49:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P4,Business Apps Ops,HRIS related issue reported by user,49
+INC202600647,2025-11-03 09:00:00,2025-11-03 10:02:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P3,End User Computing Ops,VDI related issue reported by user,62
+INC202600648,2025-11-12 13:00:00,2025-11-12 13:42:00,Network,VPN,VPN Service,CI-VPN-GW-01,P4,Network Ops,VPN related issue reported by user,42
+INC202600649,2025-11-22 17:00:00,2025-11-22 17:37:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P3,Identity & Access Ops,Password Reset related issue reported by user,37
+INC202600650,2025-12-19 18:00:00,2025-12-19 19:17:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,77
+INC202600651,2025-12-06 12:00:00,2025-12-06 15:08:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P1,Identity & Access Ops,SSO related issue reported by user,188
+INC202600652,2026-01-18 11:00:00,2026-01-18 13:50:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,170
+INC202600653,2026-01-01 08:00:00,2026-01-01 10:17:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,137
+INC202600654,2025-11-26 18:00:00,2025-11-26 21:55:00,Business Apps,ERP,ERP,CI-ERP-01,P3,Business Apps Ops,ERP related issue reported by user,235
+INC202600655,2026-01-09 08:00:00,2026-01-09 10:49:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P3,Identity & Access Ops,Password Reset related issue reported by user,169
+INC202600656,2026-01-02 13:00:00,2026-01-02 14:39:00,Business Apps,CRM,CRM,CI-CRM-01,P3,Business Apps Ops,CRM related issue reported by user,99
+INC202600657,2025-11-24 08:00:00,2025-11-24 11:57:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P3,Collaboration Ops,Calendar related issue reported by user,237
+INC202600658,2025-12-06 08:00:00,2025-12-06 10:59:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P3,Identity & Access Ops,Password Reset related issue reported by user,179
+INC202600659,2025-11-30 10:00:00,2025-11-30 11:38:00,Network,VPN,VPN Service,CI-VPN-GW-01,P3,Network Ops,VPN related issue reported by user,98
+INC202600660,2026-01-08 08:00:00,2026-01-08 11:54:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P4,End User Computing Ops,VDI related issue reported by user,234
+INC202600661,2025-12-20 13:00:00,2025-12-20 14:51:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,111
+INC202600662,2026-01-29 13:00:00,2026-01-29 15:00:00,Business Apps,ERP,ERP,CI-ERP-01,P3,Business Apps Ops,ERP related issue reported by user,120
+INC202600663,2026-01-12 17:00:00,2026-01-12 20:57:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P4,End User Computing Ops,VDI related issue reported by user,237
+INC202600664,2026-01-03 16:00:00,2026-01-03 16:53:00,Collaboration,Email,Email Service,CI-MAIL-01,P3,Collaboration Ops,Email related issue reported by user,53
+INC202600665,2025-11-08 11:00:00,2025-11-08 13:32:00,Business Apps,ERP,ERP,CI-ERP-01,P1,Business Apps Ops,ERP related issue reported by user,152
+INC202600666,2025-11-01 13:00:00,2025-11-01 14:57:00,Business Apps,ERP,ERP,CI-ERP-01,P4,Business Apps Ops,ERP related issue reported by user,117
+INC202600667,2025-11-23 13:00:00,2025-11-23 16:30:00,Network,VPN,VPN Service,CI-VPN-GW-01,P2,Network Ops,VPN related issue reported by user,210
+INC202600668,2025-11-19 09:00:00,2025-11-19 11:05:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P4,Business Apps Ops,HRIS related issue reported by user,125
+INC202600669,2026-01-24 14:00:00,2026-01-24 15:52:00,Business Apps,ERP,ERP,CI-ERP-01,P3,Business Apps Ops,ERP related issue reported by user,112
+INC202600670,2025-11-18 10:00:00,2025-11-18 12:34:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,154
+INC202600671,2026-01-23 13:00:00,2026-01-23 16:27:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P4,End User Computing Ops,VDI related issue reported by user,207
+INC202600672,2026-01-18 13:00:00,2026-01-18 14:14:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P3,End User Computing Ops,VDI related issue reported by user,74
+INC202600673,2025-12-19 12:00:00,2025-12-19 13:15:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,75
+INC202600674,2025-11-01 17:00:00,2025-11-01 20:04:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P1,Identity & Access Ops,Password Reset related issue reported by user,184
+INC202600675,2025-12-11 17:00:00,2025-12-11 19:37:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P3,End User Computing Ops,VDI related issue reported by user,157
+INC202600676,2025-11-19 13:00:00,2025-11-19 14:51:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P3,Security Ops,Phishing related issue reported by user,111
+INC202600677,2025-11-22 18:00:00,2025-11-22 21:36:00,Network,DNS,DNS Service,CI-DNS-CORE-01,P3,Network Ops,DNS related issue reported by user,216
+INC202600678,2025-12-13 15:00:00,2025-12-13 18:27:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,207
+INC202600679,2025-11-09 13:00:00,2025-11-09 13:42:00,Collaboration,Email,Email Service,CI-MAIL-01,P3,Collaboration Ops,Email related issue reported by user,42
+INC202600680,2025-12-20 15:00:00,2025-12-20 17:15:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P4,Security Ops,EDR Alerts related issue reported by user,135
+INC202600681,2026-01-03 14:00:00,2026-01-03 16:32:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P3,Collaboration Ops,Calendar related issue reported by user,152
+INC202600682,2026-01-13 18:00:00,2026-01-13 18:48:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P2,Security Ops,Phishing related issue reported by user,48
+INC202600683,2025-11-05 12:00:00,2025-11-05 12:56:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,56
+INC202600684,2025-11-10 13:00:00,2025-11-10 13:49:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P2,End User Computing Ops,Printers related issue reported by user,49
+INC202600685,2026-01-10 09:00:00,2026-01-10 11:33:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P4,Collaboration Ops,Calendar related issue reported by user,153
+INC202600686,2025-11-04 14:00:00,2025-11-04 16:21:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P3,Security Ops,Phishing related issue reported by user,141
+INC202600687,2025-11-21 08:00:00,2025-11-21 09:18:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,78
+INC202600688,2025-12-23 16:00:00,2025-12-23 19:19:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,199
+INC202600689,2025-12-07 12:00:00,2025-12-07 14:56:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P1,End User Computing Ops,Endpoint Management related issue reported by user,176
+INC202600690,2026-01-10 15:00:00,2026-01-10 17:19:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,139
+INC202600691,2025-11-12 12:00:00,2025-11-12 13:21:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,81
+INC202600692,2025-11-13 08:00:00,2025-11-13 08:50:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,50
+INC202600693,2025-12-31 09:00:00,2025-12-31 12:19:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P3,Collaboration Ops,Teams/Zoom related issue reported by user,199
+INC202600694,2025-12-04 09:00:00,2025-12-04 11:04:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,124
+INC202600695,2025-12-19 13:00:00,2025-12-19 15:22:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P1,End User Computing Ops,Printers related issue reported by user,142
+INC202600696,2025-12-30 12:00:00,2025-12-30 13:08:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P3,End User Computing Ops,Printers related issue reported by user,68
+INC202600697,2026-01-29 18:00:00,2026-01-29 21:56:00,Network,VPN,VPN Service,CI-VPN-GW-01,P3,Network Ops,VPN related issue reported by user,236
+INC202600698,2026-01-09 14:00:00,2026-01-09 16:09:00,Business Apps,ERP,ERP,CI-ERP-01,P3,Business Apps Ops,ERP related issue reported by user,129
+INC202600699,2026-01-06 14:00:00,2026-01-06 16:31:00,Business Apps,CRM,CRM,CI-CRM-01,P4,Business Apps Ops,CRM related issue reported by user,151
+INC202600700,2026-01-13 11:00:00,2026-01-13 14:32:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P2,Identity & Access Ops,MFA related issue reported by user,212
+INC202600701,2025-11-05 16:00:00,2025-11-05 19:23:00,Business Apps,CRM,CRM,CI-CRM-01,P4,Business Apps Ops,CRM related issue reported by user,203
+INC202600702,2026-01-19 10:00:00,2026-01-19 11:12:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P2,Network Ops,WiFi related issue reported by user,72
+INC202600703,2025-11-28 11:00:00,2025-11-28 14:24:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,204
+INC202600704,2025-12-26 11:00:00,2025-12-26 12:36:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P4,Security Ops,Phishing related issue reported by user,96
+INC202600705,2025-12-11 09:00:00,2025-12-11 11:51:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,171
+INC202600706,2025-12-12 12:00:00,2025-12-12 12:33:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P4,Business Apps Ops,HRIS related issue reported by user,33
+INC202600707,2026-01-29 17:00:00,2026-01-29 17:58:00,Business Apps,CRM,CRM,CI-CRM-01,P3,Business Apps Ops,CRM related issue reported by user,58
+INC202600708,2025-12-24 10:00:00,2025-12-24 13:44:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P3,End User Computing Ops,VDI related issue reported by user,224
+INC202600709,2025-11-13 09:00:00,2025-11-13 11:47:00,Business Apps,ERP,ERP,CI-ERP-01,P3,Business Apps Ops,ERP related issue reported by user,167
+INC202600710,2025-12-15 14:00:00,2025-12-15 16:56:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P3,Collaboration Ops,Teams/Zoom related issue reported by user,176
+INC202600711,2026-01-17 15:00:00,2026-01-17 16:06:00,Network,VPN,VPN Service,CI-VPN-GW-01,P3,Network Ops,VPN related issue reported by user,66
+INC202600712,2026-01-19 17:00:00,2026-01-19 19:11:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,131
+INC202600713,2025-12-13 11:00:00,2025-12-13 12:38:00,Network,DNS,DNS Service,CI-DNS-CORE-01,P3,Network Ops,DNS related issue reported by user,98
+INC202600714,2025-12-18 08:00:00,2025-12-18 10:35:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P3,Collaboration Ops,Teams/Zoom related issue reported by user,155
+INC202600715,2026-01-29 18:00:00,2026-01-29 21:40:00,Network,VPN,VPN Service,CI-VPN-GW-01,P2,Network Ops,VPN related issue reported by user,220
+INC202600716,2025-12-27 13:00:00,2025-12-27 16:15:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P3,Collaboration Ops,Calendar related issue reported by user,195
+INC202600717,2025-11-12 11:00:00,2025-11-12 13:14:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P4,Identity & Access Ops,SSO related issue reported by user,134
+INC202600718,2026-01-02 16:00:00,2026-01-02 17:10:00,Collaboration,Email,Email Service,CI-MAIL-01,P3,Collaboration Ops,Email related issue reported by user,70
+INC202600719,2025-11-09 12:00:00,2025-11-09 15:49:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,229
+INC202600720,2026-01-07 17:00:00,2026-01-07 18:21:00,Network,VPN,VPN Service,CI-VPN-GW-01,P2,Network Ops,VPN related issue reported by user,81
+INC202600721,2025-11-08 11:00:00,2025-11-08 13:02:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P2,Network Ops,WiFi related issue reported by user,122
+INC202600722,2025-11-26 12:00:00,2025-11-26 15:12:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P3,Collaboration Ops,Teams/Zoom related issue reported by user,192
+INC202600723,2025-11-16 18:00:00,2025-11-16 21:02:00,Network,VPN,VPN Service,CI-VPN-GW-01,P3,Network Ops,VPN related issue reported by user,182
+INC202600724,2025-12-28 10:00:00,2025-12-28 11:58:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P3,Identity & Access Ops,Password Reset related issue reported by user,118
+INC202600725,2025-11-21 12:00:00,2025-11-21 12:37:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P2,Security Ops,Account Lockout related issue reported by user,37
+INC202600726,2025-12-20 08:00:00,2025-12-20 09:24:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P3,End User Computing Ops,VDI related issue reported by user,84
+INC202600727,2025-11-29 18:00:00,2025-11-29 21:16:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P3,End User Computing Ops,VDI related issue reported by user,196
+INC202600728,2025-12-23 16:00:00,2025-12-23 17:03:00,Network,DNS,DNS Service,CI-DNS-CORE-01,P1,Network Ops,DNS related issue reported by user,63
+INC202600729,2026-01-22 10:00:00,2026-01-22 13:05:00,Business Apps,ERP,ERP,CI-ERP-01,P3,Business Apps Ops,ERP related issue reported by user,185
+INC202600730,2025-12-10 18:00:00,2025-12-10 19:59:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P4,Collaboration Ops,Teams/Zoom related issue reported by user,119
+INC202600731,2025-12-29 12:00:00,2025-12-29 14:43:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P3,End User Computing Ops,Printers related issue reported by user,163
+INC202600732,2026-01-19 14:00:00,2026-01-19 17:19:00,Business Apps,ERP,ERP,CI-ERP-01,P1,Business Apps Ops,ERP related issue reported by user,199
+INC202600733,2025-12-18 16:00:00,2025-12-18 17:46:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,106
+INC202600734,2026-01-27 09:00:00,2026-01-27 10:40:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,100
+INC202600735,2026-01-21 13:00:00,2026-01-21 16:16:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P3,Collaboration Ops,Teams/Zoom related issue reported by user,196
+INC202600736,2025-12-09 11:00:00,2025-12-09 11:44:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P3,End User Computing Ops,VDI related issue reported by user,44
+INC202600737,2026-01-16 14:00:00,2026-01-16 17:34:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,214
+INC202600738,2025-11-04 18:00:00,2025-11-04 20:17:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P3,Identity & Access Ops,MFA related issue reported by user,137
+INC202600739,2025-12-22 14:00:00,2025-12-22 16:56:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P3,Security Ops,Phishing related issue reported by user,176
+INC202600740,2025-11-25 13:00:00,2025-11-25 15:46:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,166
+INC202600741,2026-01-21 15:00:00,2026-01-21 16:13:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,73
+INC202600742,2026-01-24 16:00:00,2026-01-24 17:02:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P2,End User Computing Ops,Printers related issue reported by user,62
+INC202600743,2025-12-04 16:00:00,2025-12-04 19:17:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P4,End User Computing Ops,VDI related issue reported by user,197
+INC202600744,2025-11-12 11:00:00,2025-11-12 12:48:00,Collaboration,Email,Email Service,CI-MAIL-01,P3,Collaboration Ops,Email related issue reported by user,108
+INC202600745,2025-12-24 13:00:00,2025-12-24 15:28:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P3,Collaboration Ops,Teams/Zoom related issue reported by user,148
+INC202600746,2025-11-16 15:00:00,2025-11-16 18:08:00,Network,DNS,DNS Service,CI-DNS-CORE-01,P3,Network Ops,DNS related issue reported by user,188
+INC202600747,2025-11-10 15:00:00,2025-11-10 18:24:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P2,End User Computing Ops,VDI related issue reported by user,204
+INC202600748,2025-12-19 16:00:00,2025-12-19 17:08:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P2,Collaboration Ops,Teams/Zoom related issue reported by user,68
+INC202600749,2025-11-18 11:00:00,2025-11-18 13:27:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P4,Collaboration Ops,Teams/Zoom related issue reported by user,147
+INC202600750,2025-11-19 13:00:00,2025-11-19 15:34:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P3,Security Ops,Phishing related issue reported by user,154
+INC202600751,2025-12-13 18:00:00,2025-12-13 18:31:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P3,End User Computing Ops,Printers related issue reported by user,31
+INC202600752,2025-12-28 12:00:00,2025-12-28 13:10:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,70
+INC202600753,2026-01-02 09:00:00,2026-01-02 11:19:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P3,End User Computing Ops,VDI related issue reported by user,139
+INC202600754,2025-12-22 14:00:00,2025-12-22 16:46:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P1,Identity & Access Ops,MFA related issue reported by user,166
+INC202600755,2025-11-26 13:00:00,2025-11-26 15:45:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,165
+INC202600756,2025-11-25 08:00:00,2025-11-25 09:33:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P3,Security Ops,Phishing related issue reported by user,93
+INC202600757,2025-11-29 13:00:00,2025-11-29 15:38:00,Collaboration,Email,Email Service,CI-MAIL-01,P2,Collaboration Ops,Email related issue reported by user,158
+INC202600758,2026-01-15 12:00:00,2026-01-15 13:46:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P4,End User Computing Ops,Endpoint Management related issue reported by user,106
+INC202600759,2025-12-08 15:00:00,2025-12-08 16:56:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,116
+INC202600760,2025-12-26 18:00:00,2025-12-26 20:35:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P4,End User Computing Ops,Printers related issue reported by user,155
+INC202600761,2025-12-16 11:00:00,2025-12-16 12:27:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P1,End User Computing Ops,Printers related issue reported by user,87
+INC202600762,2025-11-17 11:00:00,2025-11-17 12:13:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P3,Security Ops,Phishing related issue reported by user,73
+INC202600763,2025-11-16 13:00:00,2025-11-16 15:06:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,126
+INC202600764,2026-01-21 12:00:00,2026-01-21 12:42:00,Business Apps,CRM,CRM,CI-CRM-01,P1,Business Apps Ops,CRM related issue reported by user,42
+INC202600765,2026-01-24 09:00:00,2026-01-24 09:59:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P1,Security Ops,Phishing related issue reported by user,59
+INC202600766,2025-12-24 15:00:00,2025-12-24 17:31:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,151
+INC202600767,2026-01-29 10:00:00,2026-01-29 10:32:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P3,End User Computing Ops,VDI related issue reported by user,32
+INC202600768,2025-12-09 14:00:00,2025-12-09 15:39:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P3,Security Ops,Phishing related issue reported by user,99
+INC202600769,2026-01-19 17:00:00,2026-01-19 17:56:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P3,Security Ops,Phishing related issue reported by user,56
+INC202600770,2026-01-05 17:00:00,2026-01-05 17:57:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P2,Network Ops,WiFi related issue reported by user,57
+INC202600771,2026-01-03 11:00:00,2026-01-03 13:43:00,Business Apps,ERP,ERP,CI-ERP-01,P3,Business Apps Ops,ERP related issue reported by user,163
+INC202600772,2025-11-26 13:00:00,2025-11-26 13:40:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,40
+INC202600773,2026-01-10 15:00:00,2026-01-10 16:54:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P4,End User Computing Ops,VDI related issue reported by user,114
+INC202600774,2025-12-01 08:00:00,2025-12-01 08:58:00,Network,DNS,DNS Service,CI-DNS-CORE-01,P2,Network Ops,DNS related issue reported by user,58
+INC202600775,2026-01-13 18:00:00,2026-01-13 21:49:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P4,Identity & Access Ops,SSO related issue reported by user,229
+INC202600776,2026-01-05 09:00:00,2026-01-05 10:35:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P2,Security Ops,Account Lockout related issue reported by user,95
+INC202600777,2026-01-22 11:00:00,2026-01-22 11:42:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P3,Identity & Access Ops,MFA related issue reported by user,42
+INC202600778,2025-11-13 10:00:00,2025-11-13 13:23:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,203
+INC202600779,2025-12-11 14:00:00,2025-12-11 17:44:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P2,Security Ops,Phishing related issue reported by user,224
+INC202600780,2025-11-06 08:00:00,2025-11-06 09:54:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P3,End User Computing Ops,VDI related issue reported by user,114
+INC202600781,2025-12-16 15:00:00,2025-12-16 15:53:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P4,Business Apps Ops,HRIS related issue reported by user,53
+INC202600782,2025-12-18 13:00:00,2025-12-18 15:26:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,146
+INC202600783,2025-12-05 14:00:00,2025-12-05 17:16:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,196
+INC202600784,2025-11-22 09:00:00,2025-11-22 10:10:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P3,End User Computing Ops,VDI related issue reported by user,70
+INC202600785,2025-11-14 14:00:00,2025-11-14 17:23:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P4,Business Apps Ops,HRIS related issue reported by user,203
+INC202600786,2025-12-27 10:00:00,2025-12-27 13:06:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P3,Business Apps Ops,HRIS related issue reported by user,186
+INC202600787,2025-11-04 18:00:00,2025-11-04 20:34:00,Security,Phishing,Security Awareness,CI-SEC-AWARE-01,P3,Security Ops,Phishing related issue reported by user,154
+INC202600788,2025-11-15 14:00:00,2025-11-15 17:17:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P2,Identity & Access Ops,SSO related issue reported by user,197
+INC202600789,2025-12-11 08:00:00,2025-12-11 11:40:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,220
+INC202600790,2026-01-13 17:00:00,2026-01-13 19:42:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P4,End User Computing Ops,VDI related issue reported by user,162
+INC202600791,2026-01-06 17:00:00,2026-01-06 18:33:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,93
+INC202600792,2026-01-01 13:00:00,2026-01-01 14:08:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,68
+INC202600793,2026-01-11 17:00:00,2026-01-11 18:10:00,Network,VPN,VPN Service,CI-VPN-GW-01,P3,Network Ops,VPN related issue reported by user,70
+INC202600794,2026-01-04 15:00:00,2026-01-04 17:35:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P2,Identity & Access Ops,SSO related issue reported by user,155
+INC202600795,2025-12-12 11:00:00,2025-12-12 12:27:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P2,Collaboration Ops,Teams/Zoom related issue reported by user,87
+INC202600796,2026-01-10 18:00:00,2026-01-10 18:50:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P4,Identity & Access Ops,MFA related issue reported by user,50
+INC202600797,2025-12-29 15:00:00,2025-12-29 17:37:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P2,Business Apps Ops,HRIS related issue reported by user,157
+INC202600798,2025-12-28 13:00:00,2025-12-28 13:34:00,Network,WiFi,Corporate WiFi,CI-WIFI-CTRL-02,P3,Network Ops,WiFi related issue reported by user,34
+INC202600799,2025-11-14 14:00:00,2025-11-14 14:30:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,30
+INC202600800,2025-11-12 17:00:00,2025-11-12 19:40:00,Business Apps,CRM,CRM,CI-CRM-01,P3,Business Apps Ops,CRM related issue reported by user,160
+INC202600801,2026-01-11 11:00:00,2026-01-11 12:57:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,117
+INC202600802,2025-12-17 08:00:00,2025-12-17 11:46:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P3,End User Computing Ops,Printers related issue reported by user,226
+INC202600803,2026-01-19 17:00:00,2026-01-19 20:33:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P3,Identity & Access Ops,Password Reset related issue reported by user,213
+INC202600804,2025-12-28 09:00:00,2025-12-28 10:57:00,Network,DNS,DNS Service,CI-DNS-CORE-01,P3,Network Ops,DNS related issue reported by user,117
+INC202600805,2025-12-16 18:00:00,2025-12-16 21:29:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P3,Collaboration Ops,Calendar related issue reported by user,209
+INC202600806,2025-11-14 08:00:00,2025-11-14 11:33:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P2,End User Computing Ops,Printers related issue reported by user,213
+INC202600807,2025-12-23 09:00:00,2025-12-23 10:00:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P2,Collaboration Ops,Calendar related issue reported by user,60
+INC202600808,2025-12-21 11:00:00,2025-12-21 11:57:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,57
+INC202600809,2025-12-24 08:00:00,2025-12-24 11:47:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,227
+INC202600810,2025-12-28 15:00:00,2025-12-28 16:04:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P4,Security Ops,Account Lockout related issue reported by user,64
+INC202600811,2026-01-03 08:00:00,2026-01-03 10:20:00,Business Apps,CRM,CRM,CI-CRM-01,P1,Business Apps Ops,CRM related issue reported by user,140
+INC202600812,2026-01-14 15:00:00,2026-01-14 16:14:00,Business Apps,ERP,ERP,CI-ERP-01,P3,Business Apps Ops,ERP related issue reported by user,74
+INC202600813,2025-11-17 09:00:00,2025-11-17 10:52:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P3,Identity & Access Ops,Password Reset related issue reported by user,112
+INC202600814,2026-01-04 14:00:00,2026-01-04 17:45:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P4,Identity & Access Ops,Password Reset related issue reported by user,225
+INC202600815,2025-12-02 12:00:00,2025-12-02 14:25:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P4,Identity & Access Ops,MFA related issue reported by user,145
+INC202600816,2025-11-18 10:00:00,2025-11-18 13:41:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P3,Identity & Access Ops,Password Reset related issue reported by user,221
+INC202600817,2026-01-05 12:00:00,2026-01-05 15:32:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P4,Security Ops,Account Lockout related issue reported by user,212
+INC202600818,2026-01-10 18:00:00,2026-01-10 21:32:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,212
+INC202600819,2025-12-08 18:00:00,2025-12-08 21:31:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P2,Collaboration Ops,Calendar related issue reported by user,211
+INC202600820,2026-01-23 10:00:00,2026-01-23 11:52:00,Business Apps,CRM,CRM,CI-CRM-01,P3,Business Apps Ops,CRM related issue reported by user,112
+INC202600821,2025-11-15 13:00:00,2025-11-15 16:20:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P3,Business Apps Ops,HRIS related issue reported by user,200
+INC202600822,2025-12-24 18:00:00,2025-12-24 20:18:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,138
+INC202600823,2025-11-02 16:00:00,2025-11-02 16:43:00,Network,VPN,VPN Service,CI-VPN-GW-01,P3,Network Ops,VPN related issue reported by user,43
+INC202600824,2026-01-25 08:00:00,2026-01-25 09:11:00,End User Computing,Printers,Print Services,CI-PRINT-SRV-03,P3,End User Computing Ops,Printers related issue reported by user,71
+INC202600825,2025-12-07 18:00:00,2025-12-07 21:26:00,Collaboration,Email,Email Service,CI-MAIL-01,P4,Collaboration Ops,Email related issue reported by user,206
+INC202600826,2025-12-08 11:00:00,2025-12-08 13:25:00,Business Apps,ERP,ERP,CI-ERP-01,P3,Business Apps Ops,ERP related issue reported by user,145
+INC202600827,2025-11-14 17:00:00,2025-11-14 18:27:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,87
+INC202600828,2026-01-22 16:00:00,2026-01-22 19:53:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P3,Identity & Access Ops,SSO related issue reported by user,233
+INC202600829,2026-01-29 12:00:00,2026-01-29 14:07:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P1,Security Ops,Account Lockout related issue reported by user,127
+INC202600830,2025-12-20 14:00:00,2025-12-20 14:43:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P4,Security Ops,EDR Alerts related issue reported by user,43
+INC202600831,2025-11-02 12:00:00,2025-11-02 14:23:00,End User Computing,VDI,VDI Platform,CI-VDI-POOL-01,P4,End User Computing Ops,VDI related issue reported by user,143
+INC202600832,2025-11-29 18:00:00,2025-11-29 21:43:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P3,Security Ops,Account Lockout related issue reported by user,223
+INC202600833,2026-01-15 16:00:00,2026-01-15 19:35:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P2,Security Ops,Account Lockout related issue reported by user,215
+INC202600834,2025-11-25 12:00:00,2025-11-25 12:49:00,Identity & Access,SSO,SSO Platform,CI-SSO-01,P4,Identity & Access Ops,SSO related issue reported by user,49
+INC202600835,2025-11-24 10:00:00,2025-11-24 10:40:00,Security,Account Lockout,SSO Platform,CI-SSO-01,P2,Security Ops,Account Lockout related issue reported by user,40
+INC202600836,2025-12-25 12:00:00,2025-12-25 14:59:00,Business Apps,HRIS,HRIS,CI-HRIS-01,P2,Business Apps Ops,HRIS related issue reported by user,179
+INC202600837,2025-12-03 08:00:00,2025-12-03 09:09:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P3,Collaboration Ops,Teams/Zoom related issue reported by user,69
+INC202600838,2025-11-06 10:00:00,2025-11-06 13:10:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P2,Collaboration Ops,Calendar related issue reported by user,190
+INC202600839,2026-01-18 18:00:00,2026-01-18 20:50:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P3,Collaboration Ops,Teams/Zoom related issue reported by user,170
+INC202600840,2025-12-16 09:00:00,2025-12-16 10:17:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,77
+INC202600841,2026-01-06 09:00:00,2026-01-06 11:47:00,Business Apps,ERP,ERP,CI-ERP-01,P3,Business Apps Ops,ERP related issue reported by user,167
+INC202600842,2025-12-22 09:00:00,2025-12-22 12:19:00,Collaboration,Email,Email Service,CI-MAIL-01,P4,Collaboration Ops,Email related issue reported by user,199
+INC202600843,2025-12-13 13:00:00,2025-12-13 16:42:00,Collaboration,Teams/Zoom,Collaboration Suite,CI-COLLAB-01,P3,Collaboration Ops,Teams/Zoom related issue reported by user,222
+INC202600844,2026-01-19 16:00:00,2026-01-19 19:16:00,Identity & Access,Password Reset,Password Services,CI-PWD-01,P4,Identity & Access Ops,Password Reset related issue reported by user,196
+INC202600845,2025-11-02 09:00:00,2025-11-02 12:14:00,Security,EDR Alerts,EDR Platform,CI-EDR-01,P3,Security Ops,EDR Alerts related issue reported by user,194
+INC202600846,2026-01-18 17:00:00,2026-01-18 18:52:00,End User Computing,Endpoint Management,Endpoint Management,CI-EPM-01,P3,End User Computing Ops,Endpoint Management related issue reported by user,112
+INC202600847,2025-12-19 09:00:00,2025-12-19 10:42:00,Identity & Access,MFA,MFA Platform,CI-MFA-01,P3,Identity & Access Ops,MFA related issue reported by user,102
+INC202600848,2025-11-04 16:00:00,2025-11-04 18:24:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P4,Collaboration Ops,Calendar related issue reported by user,144
+INC202600849,2026-01-02 08:00:00,2026-01-02 10:41:00,Collaboration,Calendar,Calendar Service,CI-CAL-01,P2,Collaboration Ops,Calendar related issue reported by user,161

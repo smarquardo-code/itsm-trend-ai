@@ -1,0 +1,7 @@
+.env
+venv/
+__pycache__/
+reports/*
+!reports/.gitkeep
+README_preview.html
+preview_readme.py
